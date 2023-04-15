@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://cdn-profiles.tunein.com/s206375/images/logog.jpg" group-title="Radio",Latinurbano Radio
+http://radio.latinurbano.com/radio
+#EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s299789g.png" group-title="Radio",DJ Pflow Radio
+http://radio.djpflow.com/radio
+#EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/~52e852a823d90a7e7f281dfa/images/6046.png" group-title="Radio",Hot 97
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
+#EXTINF:-1 radio="true" tvg-id="Capital Dance" tvg-name="Capital Dance" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logod.jpg" group-title="Radio",Capital Dance
+http://media-ice.musicradio.com/CapitalDance
+#EXTINF:-1 radio="true" tvg-id="Capital UK" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logog.jpg" group-title="Radio",Capital UK
+https://media-sov.musicradio.com/CapitalUK
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logod.jpg" group-title="Radio",BBC Radio 1
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:-1 radio="true" tvg-id="SLAM!" tvg-name="SLAM!" tvg-logo="https://cdn-profiles.tunein.com/s67814/images/logog.jpg" group-title="Radio",SLAM!
+https://25583.live.streamtheworld.com/SLAM_MP3_SC
+#EXTINF:-1 radio="true" tvg-id="SLAM! MIXMARATHON" tvg-name="SLAM! MIXMARATHON" tvg-logo="https://www.radio.es/images/broadcasts/da/0d/116003/2/c300.png" group-title="Radio",SLAM! MIXMARATHON
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
+#EXTINF:-1 radio="true" tvg-id="SLAM! Dance 1000" tvg-name="SLAM! Dance 1000" tvg-logo="https://www.radio.net/images/broadcasts/50/c3/116002/2/c300.png" group-title="Radio",SLAM! Dance 1000
+https://25253.live.streamtheworld.com/WEB15_AAC.aac
+#EXTINF:-1 radio="true" tvg-id="SLAM! Non Stop" tvg-name="SLAM! Non Stop" tvg-logo="https://cdn-profiles.tunein.com/s253879/images/logod.jpg" group-title="Radio",SLAM! Non Stop
+https://22323.live.streamtheworld.com/WEB10_MP3_SC
+#EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="Radio",Mega 97.9 - WSKQ-FM
+https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
+#EXTINF:-1 radio="true" tvg-id="Spin Cycle" tvg-name="Spin Cycle" tvg-logo="https://i.iheart.com/v3/re/assets.brands/602e7e9984c20b13f032ee35?ops=gravity(%22center%22),contain(900,900)&quality=100" group-title="Radio",Spin Cycle
+https://stream.revma.ihrhls.com/zc4776
