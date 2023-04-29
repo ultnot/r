@@ -25,8 +25,6 @@ https://22323.live.streamtheworld.com/WEB10_MP3_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="Lofi Hip Hop Radio" tvg-name="Lofi Hip Hop Radio" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/LOFI-HIP-HOP.jpg" group-title="General",Lofi Hip Hop Radio
 https://stream.zeno.fm/9b3xg792kwzuv
-#EXTINF:-1 radio="true" tvg-id="LoFi - Relax - iHeart" tvg-name="LoFi - Relax - iHeart" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="iHeart",LoFi - Relax
-https://18733.live.streamtheworld.com/ACIR41_S01AAC/HLS/3e87ed73-797e-4061-b0d6-3e7489aeaf59/0/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="iHeartClassical" tvg-name="iHeartClassical" tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="iHeart",iHeartClassical
 https://n37b-e2.revma.ihrhls.com/zc6377/55_zyhkkdvre5ce02/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="Evolution" tvg-name="Evolution" tvg-logo="https://i.iheart.com/v3/re/new_assets/7b78fd03-66b1-4b9a-bd41-fb9638a82a24" group-title="iHeart",Evolution
@@ -79,8 +77,8 @@ https://n0ab-e2.revma.ihrhls.com/zc8830/10_1mdsbfu9ywx7q02/playlist.m3u8
 https://n03b-e2.revma.ihrhls.com/zc4722/3_rd2ew94oosdc02/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="Pop Top 20" tvg-name="Pop Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/641e2f9002602ae7dcd0e9ad" group-title="iHeart",Pop Top 20
 https://n10b-e2.revma.ihrhls.com/zc4878/16_yc61zjy9t7pv02/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-id="La X96.3 FM" tvg-name="La X96.3 FM" tvg-logo="https://i.iheart.com/v3/re/new_assets/5df006f201f78836ac596cd2" group-title="iHeart",La X96.3 FM
-https://n10b-e2.revma.ihrhls.com/zc4878/16_yc61zjy9t7pv02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="LoFi - Relax - iHeart" tvg-name="LoFi - Relax - iHeart" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="iHeart",LoFi - Relax
+https://18733.live.streamtheworld.com/ACIR41_S01AAC/HLS/6a47e220-01e2-4ab7-bce5-2d9eaa02a5c6/0/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="Dash Pop X" tvg-name="Dash Pop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXPOP/dash_x_pop_color_324.png" group-title="Dash",Dash Pop X
 https://ice55.securenetsystems.net/DASH17
 #EXTINF:-1 radio="true" tvg-id="Dash Hits X" tvg-name="Dash Hits X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/214/logos/c701b24d-c9f9-41da-8829-01baa5cea68a.png" group-title="Dash",Dash Hits X
@@ -123,3 +121,31 @@ https://ice55.securenetsystems.net/DASH93
 https://ice55.securenetsystems.net/DASH25
 #EXTINF:-1 radio="true" tvg-id="Polygon" tvg-name="Polygon" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/188/logos/cf6e9f20-d526-4842-8f9e-abe705454c4a.png" group-title="Dash",Polygon
 https://ice55.securenetsystems.net/DASH51
+#EXTINF:-1 radio="true" tvg-id="Positively Energy" tvg-name="Positively Energy" tvg-logo="https://manager.uber.radio/static/uploads/station/15980f15-72e1-404f-9d8e-00b9958fe090.png" group-title="Positivity Radio",Positively Energy
+https://streaming.positivity.radio/pr-app/energy/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Focus" tvg-name="Positively Focus" tvg-logo="https://manager.uber.radio/static/uploads/station/697ffb47-ca7b-4c1d-9fa8-e0c0ff965f72.png" group-title="Positivity Radio",Positively Focus
+https://streaming.positivity.radio/pr-app/posisuccessful/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Reiki" tvg-name="Positively Reiki" tvg-logo="https://manager.uber.radio/static/uploads/station/ed710726-7f38-4106-a3ce-870cd6441115.png" group-title="Positivity Radio",Positively Reiki
+https://streaming.positivity.radio/pr-app/reiki/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Vibe" tvg-name="Positively Vibe" tvg-logo="https://manager.uber.radio/static/uploads/station/899cde7c-f131-4a18-8569-29cf56a76c8a.png" group-title="Positivity Radio",Positively Vibe
+https://streaming.positivity.radio/pr-app/posivibe/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Calming 396Hz" tvg-name="Positively Calming 396Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/9f8f9b07-036f-45a7-9b16-99018ae9bf1e.png" group-title="Positivity Radio",Positively Calming 396Hz
+https://streaming.positivity.radio/pr-app/calming/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Compassion 639Hz" tvg-name="Positively Compassion 639Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/899cde7c-f131-4a18-8569-29cf56a76c8a.png" group-title="Positivity Radio",Positively Compassion 639Hz
+https://streaming.positivity.radio/pr-app/compassion/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Detox 741Hz" tvg-name="Positively Detox 741Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/40d29b05-b42e-498c-a133-629efa074af2.png" group-title="Positivity Radio",Positively Detox 741Hz
+https://streaming.positivity.radio/pr-app/detox/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Enlightening 936Hz" tvg-name="Positively Enlightening 936Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/4cff0579-de61-4e92-9cab-11db570122ed.png" group-title="Positivity Radio",Positively Enlightening 936Hz
+https://streaming.positivity.radio/pr-app/enlightening/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Healing 285Hz" tvg-name="Positively Healing 285Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/9f2e7e0a-0a51-4e6b-a9ae-b7e005d51c2a.png" group-title="Positivity Radio",Positively Healing 285Hz
+https://streaming.positivity.radio/pr-app/healing/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Intuition 852Hz" tvg-name="Positively Intuition 852Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/bda079a6-e2bc-4634-82e2-948b3d0bb6f3.png" group-title="Positivity Radio",Positively Intuition 852Hz
+https://streaming.positivity.radio/pr-app/intuition/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Pain Relief 174Hz" tvg-name="Positively Pain Relief 174Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/da3eebe1-f7fd-4962-938f-bee2b8bdcb5d.png" group-title="Positivity Radio",Positively Pain Relief 174Hz
+https://streaming.positivity.radio/pr-app/painrelief/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Peaceful 432Hz" tvg-name="Positively Peaceful 432Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/d807718b-5878-48e5-870f-00c6241c3709.png" group-title="Positivity Radio",Positively Peaceful 432Hz
+https://streaming.positivity.radio/pr-app/posipeaceful/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Rejuvenate 528 Hz" tvg-name="Positively Rejuvenate 528 Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/0c8d9f13-6828-466a-a0b5-d17dcff5c08f.png" group-title="Positivity Radio",Positively Rejuvenate 528 Hz
+https://streaming.positivity.radio/pr-app/rejuvenate/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Uplifting 417Hz" tvg-name="Positively Uplifting 417Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/f8900d87-d525-41da-8345-1cee3845df55.png" group-title="Positivity Radio",Positively Uplifting 417Hz
+https://streaming.positivity.radio/pr-app/uplifting/icecast.audio
