@@ -149,3 +149,9 @@ https://streaming.positivity.radio/pr-app/posipeaceful/icecast.audio
 https://streaming.positivity.radio/pr-app/rejuvenate/icecast.audio
 #EXTINF:-1 radio="true" tvg-id="Positively Uplifting 417Hz" tvg-name="Positively Uplifting 417Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/f8900d87-d525-41da-8345-1cee3845df55.png" group-title="Positivity Radio",Positively Uplifting 417Hz
 https://streaming.positivity.radio/pr-app/uplifting/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Tranquil" tvg-name="Positively Tranquil" tvg-logo="https://manager.uber.radio/static/uploads/station/765078fd-51fa-4374-9791-8ff439ed38c0.png" group-title="Positivity Radio",Positively Tranquil
+https://streaming.positivity.radio/pr-app/positranquil/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Sleepy" tvg-name="Positively Sleepy" tvg-logo="https://manager.uber.radio/static/uploads/station/ac2cc0dd-5e8e-46d2-b60f-f15492b42971.png" group-title="Positivity Radio",Positively Sleepy
+https://streaming.positivity.radio/pr-app/posisleepy/icecast.audio
+#EXTINF:-1 radio="true" tvg-id="Positively Motivation" tvg-name="Positively Motivation" tvg-logo="https://manager.uber.radio/static/uploads/station/e1dd1541-b7d6-4a77-a1d0-cd0d287b6df1.png" group-title="Positivity Radio",Positively Motivation
+https://streaming.positivity.radio/pr-app/motivation/icecast.audio
