@@ -25,10 +25,30 @@ https://22323.live.streamtheworld.com/WEB10_MP3_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="Lofi Hip Hop Radio" tvg-name="Lofi Hip Hop Radio" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/LOFI-HIP-HOP.jpg" group-title="General",Lofi Hip Hop Radio
 https://stream.zeno.fm/9b3xg792kwzuv
-#EXTINF:-1 radio="true" tvg-id="Spin Cycle" tvg-name="Spin Cycle" tvg-logo="https://i.iheart.com/v3/re/assets.brands/602e7e9984c20b13f032ee35?ops=gravity(%22center%22),contain(900,900)&quality=100" group-title="iHeart",Spin Cycle
-https://stream.revma.ihrhls.com/zc4776
 #EXTINF:-1 radio="true" tvg-id="LoFi - Relax - iHeart" tvg-name="LoFi - Relax - iHeart" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="iHeart",LoFi - Relax
 https://18733.live.streamtheworld.com/ACIR41_S01AAC/HLS/3e87ed73-797e-4061-b0d6-3e7489aeaf59/0/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="iHeartClassical" tvg-name="iHeartClassical" tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="iHeart",iHeartClassical
+https://n37b-e2.revma.ihrhls.com/zc6377/55_zyhkkdvre5ce02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Evolution" tvg-name="Evolution" tvg-logo="https://i.iheart.com/v3/re/new_assets/7b78fd03-66b1-4b9a-bd41-fb9638a82a24" group-title="iHeart",Evolution
+https://n34b-e2.revma.ihrhls.com/zc5953/52_1n77o3503e8np02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Dance Top 20" tvg-name="Dance Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/643efcc7bd6cf8d998763762" group-title="iHeart",Dance Top 20
+https://n20b-e2.revma.ihrhls.com/zc9762/32_10ii5i4ho110o02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Spin Cycle" tvg-name="Spin Cycle" tvg-logo="https://i.iheart.com/v3/re/assets.brands/602e7e9984c20b13f032ee35" group-title="iHeart",Spin Cycle
+https://stream.revma.ihrhls.com/zc4776
+#EXTINF:-1 radio="true" tvg-id="Hip Hop Beats" tvg-name="Hip Hop Beats" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6418bdef3a047b66638616e6" group-title="iHeart",Hip Hop Beats
+https://n02b-e2.revma.ihrhls.com/zc4429/2_ivlp6jt9hcdb02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Hip Hop Top 20" tvg-name="Hip Hop Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/642ef7c925fdb919c987c51d" group-title="iHeart",Hip Hop Top 20
+https://n03b-e2.revma.ihrhls.com/zc4886/3_yvoqudmjz4vk02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="iHeart Hip Hop 50 Radio" tvg-name="iHeart Hip Hop 50 Radio" tvg-logo="https://i.iheart.com/v3/re/assets.streams/640f7846390b4bd2e8606eb5" group-title="iHeart",iHeart Hip Hop 50 Radio
+https://n21b-e2.revma.ihrhls.com/zc9717/33_14nlsgue4timy02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Smooth Jazz" tvg-name="Smooth Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a8bc0f9ba37c3dc7f68986" group-title="iHeart",Smooth Jazz
+https://n24b-e2.revma.ihrhls.com/zc4242/36_10nw0mvh6cjgv02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Smooth Jazz Top 20" tvg-name="Smooth Jazz Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/643efd3abd6cf8d998763769" group-title="iHeart",Smooth Jazz Top 20
+https://n49b-e2.revma.ihrhls.com/zc9761/73_yu4k8lxss6hn02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Vinyl Jazz" tvg-name="Vinyl Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/9ee25d1b-00e4-4d83-bf3a-3df944fcd5bd" group-title="iHeart",Vinyl Jazz
+https://n03b-e2.revma.ihrhls.com/zc7079/3_8bxzlv2fq71x02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="The Standard" tvg-name="The Standard" tvg-logo="https://i.iheart.com/v3/re/assets/images/c84101fd-74c8-4f40-a20d-707ab6a01535.png" group-title="iHeart",The Standard
+https://n06b-e2.revma.ihrhls.com/zc6784/6_237bqz26f6xs02/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="Dash Pop X" tvg-name="Dash Pop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXPOP/dash_x_pop_color_324.png" group-title="Dash",Dash Pop X
 https://ice55.securenetsystems.net/DASH17
 #EXTINF:-1 radio="true" tvg-id="Dash Hits X" tvg-name="Dash Hits X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/214/logos/c701b24d-c9f9-41da-8829-01baa5cea68a.png" group-title="Dash",Dash Hits X
