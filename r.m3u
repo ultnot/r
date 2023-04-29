@@ -29,8 +29,16 @@ https://stream.zeno.fm/9b3xg792kwzuv
 https://stream.revma.ihrhls.com/zc4776
 #EXTINF:-1 radio="true" tvg-id="LoFi - Relax - iHeart" tvg-name="LoFi - Relax - iHeart" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="iHeart",LoFi - Relax
 https://18733.live.streamtheworld.com/ACIR41_S01AAC/HLS/3e87ed73-797e-4061-b0d6-3e7489aeaf59/0/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Dash Pop X" tvg-name="Dash Pop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXPOP/dash_x_pop_color_324.png" group-title="Dash",Dash Pop X
+https://ice55.securenetsystems.net/DASH17
+#EXTINF:-1 radio="true" tvg-id="Dash Hits X" tvg-name="Dash Hits X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/214/logos/c701b24d-c9f9-41da-8829-01baa5cea68a.png" group-title="Dash",Dash Hits X
+https://ice55.securenetsystems.net/DASH58
+#EXTINF:-1 radio="true" tvg-id="Dash X" tvg-name="Dash X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHX/dash_x_color_324.png" group-title="Dash",Dash X
+https://ice55.securenetsystems.net/DASH50
 #EXTINF:-1 radio="true" tvg-id="Dash Hip-Hop X" tvg-name="Dash Hip-Hop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXHIPHOP/dash_x_hiphop_color_324.png" group-title="Dash",Dash Hip-Hop X
 https://ice55.securenetsystems.net/DASH90
+#EXTINF:-1 radio="true" tvg-id="The City - Today's Hottest Hip-Hop & R&B" tvg-name="The City - Today's Hottest Hip-Hop & R&B" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/49/logos/f2bfb506-9f0e-4e0a-9a6c-65cf83743777.png" group-title="Dash",The City - Today's Hottest Hip-Hop & R&B
+https://ice55.securenetsystems.net/DASH2
 #EXTINF:-1 radio="true" tvg-id="BPM Supreme Radio" tvg-name="BPM Supreme Radio" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/d997833e-6f07-4e34-b88f-f1ecd9734dd7.png" group-title="Dash",BPM Supreme Radio
 https://ice55.securenetsystems.net/DASH4
 #EXTINF:-1 radio="true" tvg-id="Dash Dance X" tvg-name="Dash Dance X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHDANCE/dash_x_dance_color_324.png" group-title="Dash",Dash Dance X
