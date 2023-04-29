@@ -41,19 +41,33 @@ https://ice55.securenetsystems.net/DASH90
 https://ice55.securenetsystems.net/DASH2
 #EXTINF:-1 radio="true" tvg-id="BPM Supreme Radio" tvg-name="BPM Supreme Radio" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/d997833e-6f07-4e34-b88f-f1ecd9734dd7.png" group-title="Dash",BPM Supreme Radio
 https://ice55.securenetsystems.net/DASH4
+#EXTINF:-1 radio="true" tvg-id="Insomniac Radio - Electronic Music & Festivals" tvg-name="Insomniac Radio - Electronic Music & Festivals" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/218/logos/c0d7b14a-9c44-4818-94ab-4ae8039ab5cb.png" group-title="Dash",Insomniac Radio - Electronic Music & Festivals
+https://ice55.securenetsystems.net/DASH65
+#EXTINF:-1 radio="true" tvg-id="Dash Bot X" tvg-name="Dash Bot X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/138/logos/fb9eaebf-1de6-4cef-99ae-b183e41fe4af.png" group-title="Dash",Dash Bot X
+https://ice55.securenetsystems.net/DASH45
 #EXTINF:-1 radio="true" tvg-id="Dash Dance X" tvg-name="Dash Dance X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHDANCE/dash_x_dance_color_324.png" group-title="Dash",Dash Dance X
 https://ice55.securenetsystems.net/DASH81
 #EXTINF:-1 radio="true" tvg-id="Electro City - Electronic Music" tvg-name="Electro City - Electronic Music" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Electrocity.png" group-title="Dash",Electro City - Electronic Music
 https://ice55.securenetsystems.net/DASH9
+#EXTINF:-1 radio="true" tvg-id="Overdrive - Mixes, Remixes, Bootlegs, & Mashups" tvg-name="Overdrive - Mixes, Remixes, Bootlegs, & Mashups" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/180/logos/8ae49444-f5b2-49a9-8fce-07d985d61fe3.png" group-title="Overdrive - Mixes, Remixes, Bootlegs, & Mashups
+https://ice55.securenetsystems.net/DASH73
 #EXTINF:-1 radio="true" tvg-id="Waves - Chill Electronic & Lofi" tvg-name="Waves - Chill Electronic & Lofi" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/104/logos/ebbd8a08-e215-4824-a5cd-d0fcd28aa3c5.png" group-title="Dash",Waves - Chill Electronic & Lofi
 https://ice55.securenetsystems.net/DASH55
+#EXTINF:-1 radio="true" tvg-id="Ratpack - Sinatra & Friends" tvg-name="Ratpack - Sinatra & Friends" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="Dash",Ratpack - Sinatra & Friends
+https://ice55.securenetsystems.net/DASH5
+#EXTINF:-1 radio="true" tvg-id="Dash R&B X" tvg-name="Dash R&B X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/50/logos/80156832-ba8b-4c3a-9e24-c5590be67b37.png" group-title="Dash R&B X
+https://ice55.securenetsystems.net/DASH47
 #EXTINF:-1 radio="true" tvg-id="Snoop Dogg's Cadillacc Music - Soul, R&B, Funk, & HipHop" tvg-name="Snoop Dogg's Cadillacc Music - Soul, R&B, Funk, & HipHop" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/107/logos/590aec9f-6927-4ad8-8125-96353e4c3ca9.png" group-title="Dash",Snoop Dogg's Cadillacc Music - Soul, R&B, Funk, & HipHop
 https://ice55.securenetsystems.net/DASH57
 #EXTINF:-1 radio="true" tvg-id="Cool - Classic Jazz" tvg-name="Cool - Classic Jazz" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="Dash",Cool - Classic Jazz
 https://ice55.securenetsystems.net/DASH6
+#EXTINF:-1 radio="true" tvg-id="Concerto - Classical" tvg-name="Concerto - Classical" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Concerto.png" group-title="Dash",Concerto - Classical
+https://ice55.securenetsystems.net/DASH33
 #EXTINF:-1 radio="true" tvg-id="Smooth Jazz Hits" tvg-name="Smooth Jazz Hits" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/229/logos/ec3bfac0-18e4-488b-b2f5-42451fb589e6.png" group-title="Dash",Smooth Jazz Hits
 https://ice55.securenetsystems.net/DASH44
 #EXTINF:-1 radio="true" tvg-id="Myndstream - Meditation Music for Personal Well-being" tvg-name="Myndstream - Meditation Music for Personal Well-being" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/98/logos/ce0c10bc-47ab-403e-8d71-9dbca9f10c21.png" group-title="Dash",Myndstream - Meditation Music for Personal Well-being
 https://ice55.securenetsystems.net/DASH93
 #EXTINF:-1 radio="true" tvg-id="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-name="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/5a781df1-227e-452a-8576-0530244dee94.png" group-title="Dash",Dash Lofi - Chill & Instrumental Hip-Hop Beats
 https://ice55.securenetsystems.net/DASH25
+#EXTINF:-1 radio="true" tvg-id="Polygon" tvg-name="Polygon" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/188/logos/cf6e9f20-d526-4842-8f9e-abe705454c4a.png" group-title="Dash",Polygon
+https://ice55.securenetsystems.net/DASH51
