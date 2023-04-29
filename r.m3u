@@ -1,52 +1,51 @@
 #EXTM3U
-#EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://cdn-profiles.tunein.com/s206375/images/logog.jpg" group-title="Radio",Latinurbano Radio
+#EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://cdn-profiles.tunein.com/s206375/images/logog.jpg" group-title="General",Latinurbano Radio
 http://radio.latinurbano.com/radio
-#EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s299789g.png" group-title="Radio",DJ Pflow Radio
+#EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s299789g.png" group-title="General",DJ Pflow Radio
 http://radio.djpflow.com/radio
-#EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/~52e852a823d90a7e7f281dfa/images/6046.png" group-title="Radio",Hot 97
+#EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/~52e852a823d90a7e7f281dfa/images/6046.png" group-title="General",Hot 97
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
-#EXTINF:-1 radio="true" tvg-id="Capital Dance" tvg-name="Capital Dance" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logod.jpg" group-title="Radio",Capital Dance
-http://media-ice.musicradio.com/CapitalDance
-#EXTINF:-1 radio="true" tvg-id="Capital UK" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logog.jpg" group-title="Radio",Capital UK
-https://media-sov.musicradio.com/CapitalUK
-#EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logod.jpg" group-title="Radio",BBC Radio 1
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
-#EXTINF:-1 radio="true" tvg-id="SLAM!" tvg-name="SLAM!" tvg-logo="https://cdn-profiles.tunein.com/s67814/images/logog.jpg" group-title="Radio",SLAM!
-https://25583.live.streamtheworld.com/SLAM_MP3_SC
-#EXTINF:-1 radio="true" tvg-id="SLAM! MIXMARATHON" tvg-name="SLAM! MIXMARATHON" tvg-logo="https://www.radio.es/images/broadcasts/da/0d/116003/2/c300.png" group-title="Radio",SLAM! MIXMARATHON
-https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Dance 1000" tvg-name="SLAM! Dance 1000" tvg-logo="https://www.radio.net/images/broadcasts/50/c3/116002/2/c300.png" group-title="Radio",SLAM! Dance 1000
-https://25253.live.streamtheworld.com/WEB15_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Non Stop" tvg-name="SLAM! Non Stop" tvg-logo="https://cdn-profiles.tunein.com/s253879/images/logog.jpg" group-title="Radio",SLAM! Non Stop
-https://22323.live.streamtheworld.com/WEB10_MP3_SC
-#EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="Radio",Mega 97.9 - WSKQ-FM
-https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
-#EXTINF:-1 radio="true" tvg-id="Spin Cycle" tvg-name="Spin Cycle" tvg-logo="https://i.iheart.com/v3/re/assets.brands/602e7e9984c20b13f032ee35?ops=gravity(%22center%22),contain(900,900)&quality=100" group-title="Radio",Spin Cycle
-https://stream.revma.ihrhls.com/zc4776
-#EXTINF:-1 radio="true" tvg-id="Dash Dance X" tvg-name="Dash Dance X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHDANCE/dash_x_dance_color_324.png" group-title="Radio",Dash Dance X
-https://ice55.securenetsystems.net/DASH81
-#EXTINF:-1 radio="true" tvg-id="Waves - Chill Electronic & Lofi" tvg-name="Waves - Chill Electronic & Lofi" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/104/logos/ebbd8a08-e215-4824-a5cd-d0fcd28aa3c5.png" group-title="Radio",Waves - Chill Electronic & Lofi
-https://ice55.securenetsystems.net/DASH55
-#EXTINF:-1 radio="true" tvg-id="Dash Hip-Hop X" tvg-name="Dash Hip-Hop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXHIPHOP/dash_x_hiphop_color_324.png" group-title="Radio",Dash Hip-Hop X
-https://ice55.securenetsystems.net/DASH90
-#EXTINF:-1 radio="true" tvg-id="BPM Supreme Radio" tvg-name="BPM Supreme Radio" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/d997833e-6f07-4e34-b88f-f1ecd9734dd7.png" group-title="Radio",BPM Supreme Radio
-https://ice55.securenetsystems.net/DASH4
-#EXTINF:-1 radio="true" tvg-id="Electro City - Electronic Music" tvg-name="Electro City - Electronic Music" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Electrocity.png" group-title="Radio",Electro City - Electronic Music
-https://ice55.securenetsystems.net/DASH9
-#EXTINF:-1 radio="true" tvg-id="Cool - Classic Jazz" tvg-name="Cool - Classic Jazz" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="Radio",Cool - Classic Jazz
-https://ice55.securenetsystems.net/DASH6
-#EXTINF:-1 radio="true" tvg-id="Smooth Jazz Hits" tvg-name="Smooth Jazz Hits" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/229/logos/ec3bfac0-18e4-488b-b2f5-42451fb589e6.png" group-title="Radio",Smooth Jazz Hits
-https://ice55.securenetsystems.net/DASH44
-#EXTINF:-1 radio="true" tvg-id="Myndstream - Meditation Music for Personal Well-being" tvg-name="Myndstream - Meditation Music for Personal Well-being" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/98/logos/ce0c10bc-47ab-403e-8d71-9dbca9f10c21.png" group-title="Radio",Myndstream - Meditation Music for Personal Well-being
-https://ice55.securenetsystems.net/DASH93
-#EXTINF:-1 radio="true" tvg-id="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-name="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/5a781df1-227e-452a-8576-0530244dee94.png" group-title="Radio",Dash Lofi - Chill & Instrumental Hip-Hop Beats
-https://ice55.securenetsystems.net/DASH25
-#EXTINF:-1 radio="true" tvg-id="Snoop Dogg's Cadillacc Music - Soul, R&B, Funk, & HipHop" tvg-name="Snoop Dogg's Cadillacc Music - Soul, R&B, Funk, & HipHop" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/107/logos/590aec9f-6927-4ad8-8125-96353e4c3ca9.png" group-title="Radio",Snoop Dogg's Cadillacc Music - Soul, R&B, Funk, & HipHop
-https://ice55.securenetsystems.net/DASH57
-#EXTINF:-1 radio="true" tvg-id="LoFi - Relax - iHeart" tvg-name="LoFi - Relax - iHeart" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="Radio",LoFi - Relax - iHeart
-https://18733.live.streamtheworld.com/ACIR41_S01AAC/HLS/3e87ed73-797e-4061-b0d6-3e7489aeaf59/0/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-id="Power 105.1" tvg-name="Power 105.1" tvg-logo="https://i.iheart.com/v3/re/assets/images/1481.png" group-title="Radio",Power 105.1
+#EXTINF:-1 radio="true" tvg-id="Power 105.1" tvg-name="Power 105.1" tvg-logo="https://i.iheart.com/v3/re/assets/images/1481.png" group-title="General",Power 105.1
 https://stream.revma.ihrhls.com/zc1481
-#EXTM3U
-#EXTINF:-1 radio="true" tvg-id="Lofi Hip Hop Radio" tvg-name="Lofi Hip Hop Radio" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/LOFI-HIP-HOP.jpg" group-title="Radio",Lofi Hip Hop Radio
+#EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="General",Mega 97.9 - WSKQ-FM
+https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logod.jpg" group-title="General",BBC Radio 1
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:-1 radio="true" tvg-id="Capital UK" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logog.jpg" group-title="General",Capital UK
+https://media-sov.musicradio.com/CapitalUK
+#EXTINF:-1 radio="true" tvg-id="Capital Dance" tvg-name="Capital Dance" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logod.jpg" group-title="General",Capital Dance
+http://media-ice.musicradio.com/CapitalDance
+#EXTINF:-1 radio="true" tvg-id="SLAM!" tvg-name="SLAM!" tvg-logo="https://cdn-profiles.tunein.com/s67814/images/logog.jpg" group-title="General",SLAM!
+https://25583.live.streamtheworld.com/SLAM_MP3_SC
+#EXTINF:-1 radio="true" tvg-id="SLAM! Dance 1000" tvg-name="SLAM! Dance 1000" tvg-logo="https://www.radio.net/images/broadcasts/50/c3/116002/2/c300.png" group-title="General",SLAM! Dance 1000
+https://25253.live.streamtheworld.com/WEB15_AAC.aac
+#EXTINF:-1 radio="true" tvg-id="SLAM! Non Stop" tvg-name="SLAM! Non Stop" tvg-logo="https://cdn-profiles.tunein.com/s253879/images/logog.jpg" group-title="General",SLAM! Non Stop
+https://22323.live.streamtheworld.com/WEB10_MP3_SC
+#EXTINF:-1 radio="true" tvg-id="SLAM! MIXMARATHON" tvg-name="SLAM! MIXMARATHON" tvg-logo="https://www.radio.es/images/broadcasts/da/0d/116003/2/c300.png" group-title="General",SLAM! MIXMARATHON
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
+#EXTINF:-1 radio="true" tvg-id="Lofi Hip Hop Radio" tvg-name="Lofi Hip Hop Radio" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/LOFI-HIP-HOP.jpg" group-title="General",Lofi Hip Hop Radio
 https://stream.zeno.fm/9b3xg792kwzuv
+#EXTINF:-1 radio="true" tvg-id="Spin Cycle" tvg-name="Spin Cycle" tvg-logo="https://i.iheart.com/v3/re/assets.brands/602e7e9984c20b13f032ee35?ops=gravity(%22center%22),contain(900,900)&quality=100" group-title="iHeart",Spin Cycle
+https://stream.revma.ihrhls.com/zc4776
+#EXTINF:-1 radio="true" tvg-id="LoFi - Relax - iHeart" tvg-name="LoFi - Relax - iHeart" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="iHeart",LoFi - Relax
+https://18733.live.streamtheworld.com/ACIR41_S01AAC/HLS/3e87ed73-797e-4061-b0d6-3e7489aeaf59/0/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Dash Hip-Hop X" tvg-name="Dash Hip-Hop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXHIPHOP/dash_x_hiphop_color_324.png" group-title="Dash",Dash Hip-Hop X
+https://ice55.securenetsystems.net/DASH90
+#EXTINF:-1 radio="true" tvg-id="BPM Supreme Radio" tvg-name="BPM Supreme Radio" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/d997833e-6f07-4e34-b88f-f1ecd9734dd7.png" group-title="Dash",BPM Supreme Radio
+https://ice55.securenetsystems.net/DASH4
+#EXTINF:-1 radio="true" tvg-id="Dash Dance X" tvg-name="Dash Dance X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHDANCE/dash_x_dance_color_324.png" group-title="Dash",Dash Dance X
+https://ice55.securenetsystems.net/DASH81
+#EXTINF:-1 radio="true" tvg-id="Electro City - Electronic Music" tvg-name="Electro City - Electronic Music" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Electrocity.png" group-title="Dash",Electro City - Electronic Music
+https://ice55.securenetsystems.net/DASH9
+#EXTINF:-1 radio="true" tvg-id="Waves - Chill Electronic & Lofi" tvg-name="Waves - Chill Electronic & Lofi" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/104/logos/ebbd8a08-e215-4824-a5cd-d0fcd28aa3c5.png" group-title="Dash",Waves - Chill Electronic & Lofi
+https://ice55.securenetsystems.net/DASH55
+#EXTINF:-1 radio="true" tvg-id="Snoop Dogg's Cadillacc Music - Soul, R&B, Funk, & HipHop" tvg-name="Snoop Dogg's Cadillacc Music - Soul, R&B, Funk, & HipHop" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/107/logos/590aec9f-6927-4ad8-8125-96353e4c3ca9.png" group-title="Dash",Snoop Dogg's Cadillacc Music - Soul, R&B, Funk, & HipHop
+https://ice55.securenetsystems.net/DASH57
+#EXTINF:-1 radio="true" tvg-id="Cool - Classic Jazz" tvg-name="Cool - Classic Jazz" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="Dash",Cool - Classic Jazz
+https://ice55.securenetsystems.net/DASH6
+#EXTINF:-1 radio="true" tvg-id="Smooth Jazz Hits" tvg-name="Smooth Jazz Hits" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/229/logos/ec3bfac0-18e4-488b-b2f5-42451fb589e6.png" group-title="Dash",Smooth Jazz Hits
+https://ice55.securenetsystems.net/DASH44
+#EXTINF:-1 radio="true" tvg-id="Myndstream - Meditation Music for Personal Well-being" tvg-name="Myndstream - Meditation Music for Personal Well-being" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/98/logos/ce0c10bc-47ab-403e-8d71-9dbca9f10c21.png" group-title="Dash",Myndstream - Meditation Music for Personal Well-being
+https://ice55.securenetsystems.net/DASH93
+#EXTINF:-1 radio="true" tvg-id="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-name="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/5a781df1-227e-452a-8576-0530244dee94.png" group-title="Dash",Dash Lofi - Chill & Instrumental Hip-Hop Beats
+https://ice55.securenetsystems.net/DASH25
