@@ -23,6 +23,10 @@ https://25253.live.streamtheworld.com/WEB15_AAC.aac
 https://22323.live.streamtheworld.com/WEB10_MP3_SC
 #EXTINF:-1 radio="true" tvg-id="SLAM! MIXMARATHON" tvg-name="SLAM! MIXMARATHON" tvg-logo="https://www.radio.es/images/broadcasts/da/0d/116003/2/c300.png" group-title="General",SLAM! MIXMARATHON
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
+#EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="General",Chilltrax
+https://streamssl2.chilltrax.com/index.html
+#EXTINF:-1 radio="true" tvg-id="Lofi Lounge & Chill" tvg-name="Lofi Lounge & Chill" tvg-logo="https://cdn-profiles.tunein.com/s322572/images/logod.png" group-title="General",Lofi Lounge & Chill
+https://tunein-music.streamguys1.com/secure-di_lofiloungenchill-us?key=d01d2ab4d06e727857aa6b144e318b41fdbea1d1e501811b1226e47ed7337313&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1682814135&aw_0_1st.bundleId=tunein.com&lat=34.0544&lon=-118.2441&aw_0_1st.abtest=&partnerId=RadioTime&aw_0_1st.stationId=s322572&aw_0_1st.premium=false&source=TuneIn&us_privacy=1YNY&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g403&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=dskTuneincom&aw_0_azn.planguage=%5bes%2c+en%5d
 #EXTINF:-1 radio="true" tvg-id="Lofi Hip Hop Radio" tvg-name="Lofi Hip Hop Radio" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/LOFI-HIP-HOP.jpg" group-title="General",Lofi Hip Hop Radio
 https://stream.zeno.fm/9b3xg792kwzuv
 #EXTINF:-1 radio="true" tvg-id="iHeartClassical" tvg-name="iHeartClassical" tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="iHeart",iHeartClassical
