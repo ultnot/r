@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://cdn-profiles.tunein.com/s206375/images/logog.jpg" group-title="General",Latinurbano Radio
 http://radio.latinurbano.com/radio
+#EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://cdn-profiles.tunein.com/s206375/images/logog.jpg" group-title="General",Latinurbano Radio
+http://69.162.103.66:2199/
 #EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s299789g.png" group-title="General",DJ Pflow Radio
 http://radio.djpflow.com/radio
 #EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/~52e852a823d90a7e7f281dfa/images/6046.png" group-title="General",Hot 97
@@ -25,8 +27,10 @@ https://22323.live.streamtheworld.com/WEB10_MP3_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="General",Chilltrax
 https://streamssl2.chilltrax.com/index.html
-#EXTINF:-1 radio="true" tvg-id="Lofi Lounge & Chill" tvg-name="Lofi Lounge & Chill" tvg-logo="https://cdn-profiles.tunein.com/s322572/images/logod.png" group-title="General",Lofi Lounge & Chill
-https://tunein-music.streamguys1.com/secure-di_lofiloungenchill-us?key=d01d2ab4d06e727857aa6b144e318b41fdbea1d1e501811b1226e47ed7337313&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1682814135&aw_0_1st.bundleId=tunein.com&lat=34.0544&lon=-118.2441&aw_0_1st.abtest=&partnerId=RadioTime&aw_0_1st.stationId=s322572&aw_0_1st.premium=false&source=TuneIn&us_privacy=1YNY&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g403&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=dskTuneincom&aw_0_azn.planguage=%5bes%2c+en%5d
+#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://cafedelmar.com/_nuxt/img/logo-blue.9f61540.svg" group-title="General",Cafe del Mar Radio - Chillout
+https://streams.radio.co/se1a320b47/listen
+#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - House" tvg-name="Cafe del Mar Radio - House" tvg-logo="https://cafedelmar.com/_nuxt/img/logo-blue.9f61540.svg" group-title="General",Cafe del Mar Radio - House
+https://s4.radio.co/seeae9c220/listen
 #EXTINF:-1 radio="true" tvg-id="Lofi Hip Hop Radio" tvg-name="Lofi Hip Hop Radio" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/LOFI-HIP-HOP.jpg" group-title="General",Lofi Hip Hop Radio
 https://stream.zeno.fm/9b3xg792kwzuv
 #EXTINF:-1 radio="true" tvg-id="iHeartClassical" tvg-name="iHeartClassical" tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="iHeart",iHeartClassical
