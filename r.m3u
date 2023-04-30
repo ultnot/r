@@ -2,7 +2,7 @@
 #EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://cdn-profiles.tunein.com/s206375/images/logog.jpg" group-title="General",Latinurbano Radio
 http://radio.latinurbano.com/radio
 #EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://cdn-profiles.tunein.com/s206375/images/logog.jpg" group-title="General",Latinurbano Radio
-http://69.162.103.66:2199/
+http://69.162.103.66:2199
 #EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s299789g.png" group-title="General",DJ Pflow Radio
 http://radio.djpflow.com/radio
 #EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/~52e852a823d90a7e7f281dfa/images/6046.png" group-title="General",Hot 97
