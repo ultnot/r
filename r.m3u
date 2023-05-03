@@ -7,6 +7,8 @@ http://69.162.103.66:8069/
 http://radio.djpflow.com/radio
 #EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/~52e852a823d90a7e7f281dfa/images/6046.png" group-title="General",Hot 97
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
+#EXTINF:-1 radio="true" tvg-id="Power 106" tvg-name="Power 106" tvg-logo="https://i.iheart.com/v3/re/assets/~52bca6e423d90a50228ff760/images/6045.png" group-title="General",Power 106
+https://17793.live.streamtheworld.com/KPWRAAC.aac
 #EXTINF:-1 radio="true" tvg-id="Power 105.1" tvg-name="Power 105.1" tvg-logo="https://i.iheart.com/v3/re/assets/images/1481.png" group-title="General",Power 105.1
 https://stream.revma.ihrhls.com/zc1481
 #EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="General",Mega 97.9 - WSKQ-FM
@@ -59,6 +61,10 @@ https://n49b-e2.revma.ihrhls.com/zc9761/73_yu4k8lxss6hn02/playlist.m3u8
 https://n03b-e2.revma.ihrhls.com/zc7079/3_8bxzlv2fq71x02/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="The Standard" tvg-name="The Standard" tvg-logo="https://i.iheart.com/v3/re/assets/images/c84101fd-74c8-4f40-a20d-707ab6a01535.png" group-title="iHeart",The Standard
 https://n06b-e2.revma.ihrhls.com/zc6784/6_237bqz26f6xs02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Salsa Bembé" tvg-name="Salsa Bembé" tvg-logo="https://i.iheart.com/v3/re/new_assets/53f10e4d-e303-487e-9feb-6e0bdbfdccc4" group-title="iHeart",Salsa Bembé
+https://n33b-e2.revma.ihrhls.com/zc7192/51_hn0mhhu6fyfo02/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="Latin Jazz" tvg-name="Latin Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d276e0c93ae1fbff3d2c341" group-title="iHeart",Latin Jazz
+https://27143.live.streamtheworld.com/ACIR45_S01AAC/HLS/b19f0c35-39fe-4019-a1dc-abcf982e3a14/0/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="La X96.3 FM" tvg-name="La X96.3 FM" tvg-logo="https://i.iheart.com/v3/re/new_assets/5df006f201f78836ac596cd2" group-title="iHeart",La X96.3 FM
 https://live.wostreaming.net/direct/univision-wxnyfmaac-ibc1
 #EXTINF:-1 radio="true" tvg-id="Today's Mix" tvg-name="Today's Mix" tvg-logo="https://i.iheart.com/v3/re/assets/images/4409.png" group-title="iHeart",Today's Mix
