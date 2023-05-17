@@ -35,10 +35,16 @@ https://streamssl2.chilltrax.com/index.html
 https://streams.radio.co/se1a320b47/listen
 #EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - House" tvg-name="Cafe del Mar Radio - House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="General",Cafe del Mar Radio - House
 https://s4.radio.co/seeae9c220/listen
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Chill" tvg-name="RadioSpinner - LoFi Chill" tvg-logo="https://radiospinner.com/images/stations/612ce7e3bb6f0.jpg" group-title="General",RadioSpinner - LoFi Chill
+http://live.radiospinner.com/lfch-96
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Hip-Hop" tvg-name="RadioSpinner - LoFi Hip-Hop" tvg-logo="https://radiospinner.com/images/stations/5fc394273d911.jpg" group-title="General",RadioSpinner - LoFi Hip-Hop
+https://live.radiospinner.com/lofi-hip-hop-96
 #EXTINF:-1 radio="true" tvg-id="Lofi Hip Hop Radio" tvg-name="Lofi Hip Hop Radio" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/LOFI-HIP-HOP.jpg" group-title="General",Lofi Hip Hop Radio
 https://stream.zeno.fm/9b3xg792kwzuv
+#EXTINF:-1 radio="true" tvg-id="BOX Radio - Lofi Radio" tvg-name="BOX Radio - Lofi Radio" tvg-logo="https://boxradio.net/wp-content/uploads/brizy/imgs/boxlofi-1-555x555x0x0x555x555x1665697255.jpg" group-title="General",BOX Radio - Lofi Radio
+https://play.streamafrica.net/lofiradio
 #EXTINF:-1 radio="true" tvg-id="House FM" tvg-name="House FM" tvg-logo="https://play-lh.googleusercontent.com/b3VlVcpTRFf6btlaHDf36OcrLXL5jvipSrnaPn0bA_bR1AbQzklAh0-P6Y8wV3UJsuo" group-title="General",House FM
-https://streamer.radio.co/s0de514535/listen
+https://boxradio-edge-09.streamafrica.net/lofi
 #EXTINF:-1 radio="true" tvg-id="Worldwide FM" tvg-name="Worldwide FM" tvg-logo="https://play-lh.googleusercontent.com/LIUxQwBItsQtqV-ZdJ8u8gmf92spev3Q7NJ0qW754Z2gH5ySzJVl-QyIUDiEF85SdA" group-title="General",Worldwide FM
 https://worldwidefm.out.airtime.pro/worldwidefm_b
 #EXTINF:-1 radio="true" tvg-id="iHeartClassical" tvg-name="iHeartClassical" tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="iHeart",iHeartClassical
