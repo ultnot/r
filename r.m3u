@@ -35,10 +35,6 @@ https://streamssl2.chilltrax.com/index.html
 https://streams.radio.co/se1a320b47/listen
 #EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - House" tvg-name="Cafe del Mar Radio - House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="General",Cafe del Mar Radio - House
 https://s4.radio.co/seeae9c220/listen
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Chill" tvg-name="RadioSpinner - LoFi Chill" tvg-logo="https://radiospinner.com/images/stations/612ce7e3bb6f0.jpg" group-title="General",RadioSpinner - LoFi Chill
-http://live.radiospinner.com/lfch-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Hip-Hop" tvg-name="RadioSpinner - LoFi Hip-Hop" tvg-logo="https://radiospinner.com/images/stations/5fc394273d911.jpg" group-title="General",RadioSpinner - LoFi Hip-Hop
-https://live.radiospinner.com/lofi-hip-hop-96
 #EXTINF:-1 radio="true" tvg-id="Lofi Hip Hop Radio" tvg-name="Lofi Hip Hop Radio" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/LOFI-HIP-HOP.jpg" group-title="General",Lofi Hip Hop Radio
 https://stream.zeno.fm/9b3xg792kwzuv
 #EXTINF:-1 radio="true" tvg-id="BOX Radio - Lofi Radio" tvg-name="BOX Radio - Lofi Radio" tvg-logo="https://boxradio.net/wp-content/uploads/brizy/imgs/boxlofi-1-555x555x0x0x555x555x1665697255.jpg" group-title="General",BOX Radio - Lofi Radio
@@ -147,6 +143,16 @@ https://ice55.securenetsystems.net/DASH93
 https://ice55.securenetsystems.net/DASH25
 #EXTINF:-1 radio="true" tvg-id="Polygon" tvg-name="Polygon" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/188/logos/cf6e9f20-d526-4842-8f9e-abe705454c4a.png" group-title="Dash",Polygon
 https://ice55.securenetsystems.net/DASH51
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Chill" tvg-name="RadioSpinner - LoFi Chill" tvg-logo="https://radiospinner.com/images/stations/612ce7e3bb6f0.jpg" group-title="RadioSpinner",RadioSpinner - LoFi Chill
+http://live.radiospinner.com/lfch-96
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Hip-Hop" tvg-name="RadioSpinner - LoFi Hip-Hop" tvg-logo="https://radiospinner.com/images/stations/5fc394273d911.jpg" group-title="RadioSpinner",RadioSpinner - LoFi Hip-Hop
+https://live.radiospinner.com/lofi-hip-hop-96
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Chillhop" tvg-name="RadioSpinner - Chillhop" tvg-logo="https://radiospinner.com/images/stations/6085c7f0b3f13.jpg" group-title="RadioSpinner",RadioSpinner - Chillhop
+https://live.radiospinner.com/chill-hop-96
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Coffee Jazz" tvg-name="RadioSpinner - Coffee Jazz" tvg-logo="https://radiospinner.com/images/stations/6047412e8b5d5.jpg" group-title="RadioSpinner",RadioSpinner - Coffee Jazz
+https://live.radiospinner.com/coffee-jazz-96
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Latin Jazz" tvg-name="RadioSpinner - Latin Jazz" tvg-logo="https://radiospinner.com/images/stations/608c7f3ce2dcd.jpg" group-title="RadioSpinner",RadioSpinner - Latin Jazz
+https://live.radiospinner.com/latin-jazz-96
 #EXTINF:-1 radio="true" tvg-id="Positively Energy" tvg-name="Positively Energy" tvg-logo="https://manager.uber.radio/static/uploads/station/15980f15-72e1-404f-9d8e-00b9958fe090.png" group-title="Positivity Radio",Positively Energy
 https://streaming.positivity.radio/pr-app/energy/icecast.audio
 #EXTINF:-1 radio="true" tvg-id="Positively Focus" tvg-name="Positively Focus" tvg-logo="https://manager.uber.radio/static/uploads/station/697ffb47-ca7b-4c1d-9fa8-e0c0ff965f72.png" group-title="Positivity Radio",Positively Focus
