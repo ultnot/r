@@ -149,10 +149,16 @@ http://live.radiospinner.com/lfch-96
 https://live.radiospinner.com/lofi-hip-hop-96
 #EXTINF:-1 radio="true" tvg-id="RadioSpinner - Chillhop" tvg-name="RadioSpinner - Chillhop" tvg-logo="https://radiospinner.com/images/stations/6085c7f0b3f13.jpg" group-title="RadioSpinner",RadioSpinner - Chillhop
 https://live.radiospinner.com/chill-hop-96
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Chill House" tvg-name="RadioSpinner - Chill House" tvg-logo="https://radiospinner.com/images/stations/620befa834d0a.jpg" group-title="RadioSpinner",RadioSpinner - Chill House
+https://live.radiospinner.com/chllhs-96
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Relax & Nirvana" tvg-name="RadioSpinner - Relax & Nirvana" tvg-logo="https://radiospinner.com/images/stations/60477ac1118a6.jpg" group-title="RadioSpinner",RadioSpinner - Relax & Nirvana
+https://live.radiospinner.com/complete-relaxation-96
 #EXTINF:-1 radio="true" tvg-id="RadioSpinner - Coffee Jazz" tvg-name="RadioSpinner - Coffee Jazz" tvg-logo="https://radiospinner.com/images/stations/6047412e8b5d5.jpg" group-title="RadioSpinner",RadioSpinner - Coffee Jazz
 https://live.radiospinner.com/coffee-jazz-96
 #EXTINF:-1 radio="true" tvg-id="RadioSpinner - Latin Jazz" tvg-name="RadioSpinner - Latin Jazz" tvg-logo="https://radiospinner.com/images/stations/608c7f3ce2dcd.jpg" group-title="RadioSpinner",RadioSpinner - Latin Jazz
 https://live.radiospinner.com/latin-jazz-96
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Jazz House" tvg-name="RadioSpinner - Jazz House" tvg-logo="https://radiospinner.com/images/stations/6086afa20be4b.jpg" group-title="RadioSpinner",RadioSpinner - Jazz House
+https://live.radiospinner.com/jazz-house-96
 #EXTINF:-1 radio="true" tvg-id="Positively Energy" tvg-name="Positively Energy" tvg-logo="https://manager.uber.radio/static/uploads/station/15980f15-72e1-404f-9d8e-00b9958fe090.png" group-title="Positivity Radio",Positively Energy
 https://streaming.positivity.radio/pr-app/energy/icecast.audio
 #EXTINF:-1 radio="true" tvg-id="Positively Focus" tvg-name="Positively Focus" tvg-logo="https://manager.uber.radio/static/uploads/station/697ffb47-ca7b-4c1d-9fa8-e0c0ff965f72.png" group-title="Positivity Radio",Positively Focus
