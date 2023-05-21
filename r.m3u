@@ -143,6 +143,10 @@ https://ice55.securenetsystems.net/DASH93
 https://ice55.securenetsystems.net/DASH25
 #EXTINF:-1 radio="true" tvg-id="Polygon" tvg-name="Polygon" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/188/logos/cf6e9f20-d526-4842-8f9e-abe705454c4a.png" group-title="Dash",Polygon
 https://ice55.securenetsystems.net/DASH51
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Deep House" tvg-name="RadioSpinner - Deep House" tvg-logo="https://radiospinner.com/images/stations/deephouse-logo.jpg" group-title="RadioSpinner",RadioSpinner - Deep House
+https://live.radiospinner.com/deep-house-96
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Tech House" tvg-name="RadioSpinner - Tech House" tvg-logo="https://radiospinner.com/images/stations/5fc7b2e14fcdb.jpg" group-title="RadioSpinner",RadioSpinner - Tech House
+https://live.radiospinner.com/tech-house-96
 #EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Chill" tvg-name="RadioSpinner - LoFi Chill" tvg-logo="https://radiospinner.com/images/stations/612ce7e3bb6f0.jpg" group-title="RadioSpinner",RadioSpinner - LoFi Chill
 http://live.radiospinner.com/lfch-96
 #EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Hip-Hop" tvg-name="RadioSpinner - LoFi Hip-Hop" tvg-logo="https://radiospinner.com/images/stations/5fc394273d911.jpg" group-title="RadioSpinner",RadioSpinner - LoFi Hip-Hop
