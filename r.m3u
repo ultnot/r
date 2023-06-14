@@ -13,7 +13,7 @@ https://stream.revma.ihrhls.com/zc1481
 https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
 #EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logog.jpg" group-title="BBC",BBC Radio 1
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
-#EXTINF:-1 radio="true" tvg-id="BBC Radio 1Xtra" tvg-name="BBC Radio 1Xtra" tvg-logo="https://cdn-profiles.tunein.com/s20277/images/logod.jpg" group-title="BBC",BBC Radio 1Xtra
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1Xtra" tvg-name="BBC Radio 1Xtra" tvg-logo="https://cdn-profiles.tunein.com/s20277/images/logog.jpg" group-title="BBC",BBC Radio 1Xtra
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
 #EXTINF:-1 radio="true" tvg-id="Capital UK" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logog.jpg" group-title="Global Radio",Capital UK
 https://media-sov.musicradio.com/CapitalUK
@@ -23,31 +23,31 @@ https://media-ssl.musicradio.com/CapitalXTRANational
 https://media-ssl.musicradio.com/CapitalXTRAReloaded
 #EXTINF:-1 radio="true" tvg-id="Capital Dance" tvg-name="Capital Dance" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logog.jpg" group-title="Global Radio",Capital Dance
 http://media-ice.musicradio.com/CapitalDance
-#EXTINF:-1 radio="true" tvg-id="Capital Chill" tvg-name="Capital Chill" tvg-logo="https://cdn-profiles.tunein.com/s323115/images/logod.jpg" group-title="Global Radio",Capital Chill
+#EXTINF:-1 radio="true" tvg-id="Capital Chill" tvg-name="Capital Chill" tvg-logo="https://cdn-profiles.tunein.com/s323115/images/logog.jpg" group-title="Global Radio",Capital Chill
 https://media-ssl.musicradio.com/CapitalChill
-#EXTINF:-1 radio="true" tvg-id="Smooth Chill" tvg-name="Smooth Chill" tvg-logo="https://cdn-profiles.tunein.com/s53084/images/logod.jpg" group-title="Global Radio",Smooth Chill
+#EXTINF:-1 radio="true" tvg-id="Smooth Chill" tvg-name="Smooth Chill" tvg-logo="https://cdn-profiles.tunein.com/s53084/images/logog.jpg" group-title="Global Radio",Smooth Chill
 https://media-ice.musicradio.com/Chill
 #EXTINF:-1 radio="true" tvg-id="SLAM!" tvg-name="SLAM!" tvg-logo="https://cdn-profiles.tunein.com/s67814/images/logog.jpg" group-title="SLAM!",SLAM!
 https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_AAC_SC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Zomer" tvg-name="SLAM! Zomer" tvg-logo="https://cdn-profiles.tunein.com/s309396/images/logod.jpg" group-title="SLAM!",SLAM! Zomer
+#EXTINF:-1 radio="true" tvg-id="SLAM! Zomer" tvg-name="SLAM! Zomer" tvg-logo="https://cdn-profiles.tunein.com/s309396/images/logog.jpg" group-title="SLAM!",SLAM! Zomer
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB08_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Juize" tvg-name="SLAM! Juize" tvg-logo="https://cdn-profiles.tunein.com/s80824/images/logod.jpg" group-title="SLAM!",SLAM! Juize
+#EXTINF:-1 radio="true" tvg-id="SLAM! Juize" tvg-name="SLAM! Juize" tvg-logo="https://cdn-profiles.tunein.com/s80824/images/logog.jpg" group-title="SLAM!",SLAM! Juize
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB09_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="SLAM! Non Stop" tvg-name="SLAM! Non Stop" tvg-logo="https://cdn-profiles.tunein.com/s253879/images/logog.jpg" group-title="SLAM!",SLAM! Non Stop
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB10_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Hardstyle" tvg-name="SLAM! Hardstyle" tvg-logo="https://cdn-profiles.tunein.com/s155542/images/logod.jpg" group-title="SLAM!",SLAM! Hardstyle
+#EXTINF:-1 radio="true" tvg-id="SLAM! Hardstyle" tvg-name="SLAM! Hardstyle" tvg-logo="https://cdn-profiles.tunein.com/s155542/images/logog.jpg" group-title="SLAM!",SLAM! Hardstyle
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB11_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! The Boom Room" tvg-name="SLAM! The Boom Room" tvg-logo="https://cdn-profiles.tunein.com/s253880/images/logod.jpg" group-title="SLAM!",SLAM! The Boom Room
+#EXTINF:-1 radio="true" tvg-id="SLAM! The Boom Room" tvg-name="SLAM! The Boom Room" tvg-logo="https://cdn-profiles.tunein.com/s253880/images/logog.jpg" group-title="SLAM!",SLAM! The Boom Room
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB12_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! MIXMARATHON" tvg-name="SLAM! MIXMARATHON" tvg-logo="https://cdn-profiles.tunein.com/s296300/images/logod.jpg" group-title="SLAM!",SLAM! MIXMARATHON
+#EXTINF:-1 radio="true" tvg-id="SLAM! MIXMARATHON" tvg-name="SLAM! MIXMARATHON" tvg-logo="https://cdn-profiles.tunein.com/s296300/images/logog.jpg" group-title="SLAM!",SLAM! MIXMARATHON
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! 40" tvg-name="SLAM! 40" tvg-logo="https://cdn-profiles.tunein.com/s304613/images/logod.jpg" group-title="SLAM!",SLAM! 40
+#EXTINF:-1 radio="true" tvg-id="SLAM! 40" tvg-name="SLAM! 40" tvg-logo="https://cdn-profiles.tunein.com/s304613/images/logog.jpg" group-title="SLAM!",SLAM! 40
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! 00's" tvg-name="SLAM! 00's" tvg-logo="https://cdn-profiles.tunein.com/s306475/images/logod.jpg" group-title="SLAM!",SLAM! 00's
+#EXTINF:-1 radio="true" tvg-id="SLAM! 00's" tvg-name="SLAM! 00's" tvg-logo="https://cdn-profiles.tunein.com/s306475/images/logog.jpg" group-title="SLAM!",SLAM! 00's
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Housuh in de Pauzuh" tvg-name="SLAM! Housuh in de Pauzuh" tvg-logo="https://cdn-profiles.tunein.com/s308578/images/logod.jpg" group-title="SLAM!",SLAM! Housuh in de Pauzuh
+#EXTINF:-1 radio="true" tvg-id="SLAM! Housuh in de Pauzuh" tvg-name="SLAM! Housuh in de Pauzuh" tvg-logo="https://cdn-profiles.tunein.com/s308578/images/logog.jpg" group-title="SLAM!",SLAM! Housuh in de Pauzuh
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logod.jpg" group-title="Main",m2o Radio
+#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
 https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
 #EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="Main",Chilltrax
 https://streamssl2.chilltrax.com/index.html
