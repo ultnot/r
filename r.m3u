@@ -11,16 +11,22 @@ https://17793.live.streamtheworld.com/KPWRAAC.aac
 https://stream.revma.ihrhls.com/zc1481
 #EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="Main",Mega 97.9 - WSKQ-FM
 https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
-#EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logog.jpg" group-title="Main",BBC Radio 1
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
-#EXTINF:-1 radio="true" tvg-id="Capital UK" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logog.jpg" group-title="Capital",Capital UK
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logog.jpg" group-title="BBC",BBC Radio 1
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1Xtra" tvg-name="BBC Radio 1Xtra" tvg-logo="https://cdn-profiles.tunein.com/s20277/images/logod.jpg" group-title="BBC",BBC Radio 1Xtra
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+#EXTINF:-1 radio="true" tvg-id="Capital UK" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logog.jpg" group-title="Global Radio",Capital UK
 https://media-sov.musicradio.com/CapitalUK
-#EXTINF:-1 radio="true" tvg-id="Capital Dance" tvg-name="Capital Dance" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logog.jpg" group-title="Capital",Capital Dance
-http://media-ice.musicradio.com/CapitalDance
-#EXTINF:-1 radio="true" tvg-id="Capital XTRA" tvg-name="Capital XTRA" tvg-logo="https://cdn-profiles.tunein.com/s220688/images/logog.jpg" group-title="Capital",Capital XTRA
+#EXTINF:-1 radio="true" tvg-id="Capital XTRA" tvg-name="Capital XTRA" tvg-logo="https://cdn-profiles.tunein.com/s220688/images/logog.jpg" group-title="Global Radio",Capital XTRA
 https://media-ssl.musicradio.com/CapitalXTRANational
-#EXTINF:-1 radio="true" tvg-id="Capital XTRA Reloaded" tvg-name="Capital XTRA Reloaded" tvg-logo="https://cdn-profiles.tunein.com/s306339/images/logog.jpg" group-title="Capital",Capital XTRA Reloaded
+#EXTINF:-1 radio="true" tvg-id="Capital XTRA Reloaded" tvg-name="Capital XTRA Reloaded" tvg-logo="https://cdn-profiles.tunein.com/s306339/images/logog.jpg" group-title="Global Radio",Capital XTRA Reloaded
 https://media-ssl.musicradio.com/CapitalXTRAReloaded
+#EXTINF:-1 radio="true" tvg-id="Capital Dance" tvg-name="Capital Dance" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logog.jpg" group-title="Global Radio",Capital Dance
+http://media-ice.musicradio.com/CapitalDance
+#EXTINF:-1 radio="true" tvg-id="Capital Chill" tvg-name="Capital Chill" tvg-logo="https://cdn-profiles.tunein.com/s323115/images/logod.jpg" group-title="Global Radio",Capital Chill
+https://media-ssl.musicradio.com/CapitalChill
+#EXTINF:-1 radio="true" tvg-id="Smooth Chill" tvg-name="Smooth Chill" tvg-logo="https://cdn-profiles.tunein.com/s53084/images/logod.jpg" group-title="Global Radio",Smooth Chill
+https://media-ice.musicradio.com/Chill
 #EXTINF:-1 radio="true" tvg-id="SLAM!" tvg-name="SLAM!" tvg-logo="https://cdn-profiles.tunein.com/s67814/images/logog.jpg" group-title="SLAM!",SLAM!
 https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_AAC_SC.aac
 #EXTINF:-1 radio="true" tvg-id="SLAM! Zomer" tvg-name="SLAM! Zomer" tvg-logo="https://cdn-profiles.tunein.com/s309396/images/logod.jpg" group-title="SLAM!",SLAM! Zomer
