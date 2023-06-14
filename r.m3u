@@ -15,7 +15,7 @@ https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 #EXTINF:-1 radio="true" tvg-id="BBC Radio 1Xtra" tvg-name="BBC Radio 1Xtra" tvg-logo="https://cdn-profiles.tunein.com/s20277/images/logog.jpg" group-title="BBC",BBC Radio 1Xtra
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
-#EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Relax" tvg-name="BBC Radio 1 Relax" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_relax/colour_default.svg" group-title="BBC",BBC Radio 1 Relax
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Relax" tvg-name="BBC Radio 1 Relax" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_relax/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1 Relax
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.norewind.m3u8
 #EXTINF:-1 radio="true" tvg-id="Capital UK" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logog.jpg" group-title="Global Radio",Capital UK
 https://media-sov.musicradio.com/CapitalUK
