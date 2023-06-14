@@ -47,21 +47,21 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="SLAM! Housuh in de Pauzuh" tvg-name="SLAM! Housuh in de Pauzuh" tvg-logo="https://cdn-profiles.tunein.com/s308578/images/logod.jpg" group-title="SLAM!",SLAM! Housuh in de Pauzuh
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logod.jpg" group-title="General",m2o Radio
+#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logod.jpg" group-title="Main",m2o Radio
 https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
-#EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="General",Chilltrax
+#EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="Main",Chilltrax
 https://streamssl2.chilltrax.com/index.html
-#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="General",Cafe del Mar Radio - Chillout
+#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - Chillout
 https://streams.radio.co/se1a320b47/listen
-#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - House" tvg-name="Cafe del Mar Radio - House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="General",Cafe del Mar Radio - House
+#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - House" tvg-name="Cafe del Mar Radio - House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - House
 https://s4.radio.co/seeae9c220/listen
-#EXTINF:-1 radio="true" tvg-id="Lofi Hip Hop Radio" tvg-name="Lofi Hip Hop Radio" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/LOFI-HIP-HOP.jpg" group-title="General",Lofi Hip Hop Radio
+#EXTINF:-1 radio="true" tvg-id="Lofi Hip Hop Radio" tvg-name="Lofi Hip Hop Radio" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/LOFI-HIP-HOP.jpg" group-title="Main",Lofi Hip Hop Radio
 https://stream.zeno.fm/9b3xg792kwzuv
-#EXTINF:-1 radio="true" tvg-id="BOX Radio - Lofi Radio" tvg-name="BOX Radio - Lofi Radio" tvg-logo="https://boxradio.net/wp-content/uploads/brizy/imgs/boxlofi-1-555x555x0x0x555x555x1665697255.jpg" group-title="General",BOX Radio - Lofi Radio
+#EXTINF:-1 radio="true" tvg-id="BOX Radio - Lofi Radio" tvg-name="BOX Radio - Lofi Radio" tvg-logo="https://boxradio.net/wp-content/uploads/brizy/imgs/boxlofi-1-555x555x0x0x555x555x1665697255.jpg" group-title="Main",BOX Radio - Lofi Radio
 https://play.streamafrica.net/lofiradio
-#EXTINF:-1 radio="true" tvg-id="House FM" tvg-name="House FM" tvg-logo="https://play-lh.googleusercontent.com/b3VlVcpTRFf6btlaHDf36OcrLXL5jvipSrnaPn0bA_bR1AbQzklAh0-P6Y8wV3UJsuo" group-title="General",House FM
+#EXTINF:-1 radio="true" tvg-id="House FM" tvg-name="House FM" tvg-logo="https://play-lh.googleusercontent.com/b3VlVcpTRFf6btlaHDf36OcrLXL5jvipSrnaPn0bA_bR1AbQzklAh0-P6Y8wV3UJsuo" group-title="Main",House FM
 https://boxradio-edge-09.streamafrica.net/lofi
-#EXTINF:-1 radio="true" tvg-id="Worldwide FM" tvg-name="Worldwide FM" tvg-logo="https://play-lh.googleusercontent.com/LIUxQwBItsQtqV-ZdJ8u8gmf92spev3Q7NJ0qW754Z2gH5ySzJVl-QyIUDiEF85SdA" group-title="General",Worldwide FM
+#EXTINF:-1 radio="true" tvg-id="Worldwide FM" tvg-name="Worldwide FM" tvg-logo="https://play-lh.googleusercontent.com/LIUxQwBItsQtqV-ZdJ8u8gmf92spev3Q7NJ0qW754Z2gH5ySzJVl-QyIUDiEF85SdA" group-title="Main",Worldwide FM
 https://worldwidefm.out.airtime.pro/worldwidefm_b
 #EXTINF:-1 radio="true" tvg-id="iHeartClassical" tvg-name="iHeartClassical" tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="iHeart",iHeartClassical
 https://n03a-e2.revma.ihrhls.com/zc6377/3_1mh5p63tbfa0x02/playlist.m3u8
