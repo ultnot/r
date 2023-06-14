@@ -29,6 +29,8 @@ https://25253.live.streamtheworld.com/WEB15_AAC.aac
 https://22323.live.streamtheworld.com/WEB10_MP3_SC
 #EXTINF:-1 radio="true" tvg-id="SLAM! MIXMARATHON" tvg-name="SLAM! MIXMARATHON" tvg-logo="https://www.radio.es/images/broadcasts/da/0d/116003/2/c300.png" group-title="General",SLAM! MIXMARATHON
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
+#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logod.jpg" group-title="General",m2o Radio
+https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
 #EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="General",Chilltrax
 https://streamssl2.chilltrax.com/index.html
 #EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="General",Cafe del Mar Radio - Chillout
