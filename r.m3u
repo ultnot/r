@@ -13,6 +13,8 @@ https://stream.revma.ihrhls.com/zc1481
 https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
 #EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logog.jpg" group-title="BBC",BBC Radio 1
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Dance" tvg-name="BBC Radio 1 Dance" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_dance/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1 Dance
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.norewind.m3u8
 #EXTINF:-1 radio="true" tvg-id="BBC Radio 1Xtra" tvg-name="BBC Radio 1Xtra" tvg-logo="https://cdn-profiles.tunein.com/s20277/images/logog.jpg" group-title="BBC",BBC Radio 1Xtra
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
 #EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Relax" tvg-name="BBC Radio 1 Relax" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_relax/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1 Relax
