@@ -133,6 +133,8 @@ https://ice55.securenetsystems.net/DASH50
 https://ice55.securenetsystems.net/DASH90
 #EXTINF:-1 radio="true" tvg-id="The City - Today's Hottest Hip-Hop & R&B" tvg-name="The City - Today's Hottest Hip-Hop & R&B" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/49/logos/f2bfb506-9f0e-4e0a-9a6c-65cf83743777.png" group-title="Dash",The City - Today's Hottest Hip-Hop & R&B
 https://ice55.securenetsystems.net/DASH2
+#EXTINF:-1 radio="true" tvg-id="Native Rhymes - Classic Hip-Hop" tvg-name="Native Rhymes - Classic Hip-Hop" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/NativeRhymes.png" group-title="Dash",Native Rhymes - Classic Hip-Hop
+https://ice55.securenetsystems.net/DASH18
 #EXTINF:-1 radio="true" tvg-id="BPM Supreme Radio" tvg-name="BPM Supreme Radio" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/d997833e-6f07-4e34-b88f-f1ecd9734dd7.png" group-title="Dash",BPM Supreme Radio
 https://ice55.securenetsystems.net/DASH4
 #EXTINF:-1 radio="true" tvg-id="Insomniac Radio - Electronic Music & Festivals" tvg-name="Insomniac Radio - Electronic Music & Festivals" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/218/logos/c0d7b14a-9c44-4818-94ab-4ae8039ab5cb.png" group-title="Dash",Insomniac Radio - Electronic Music & Festivals
@@ -163,8 +165,6 @@ https://ice55.securenetsystems.net/DASH44
 https://ice55.securenetsystems.net/DASH93
 #EXTINF:-1 radio="true" tvg-id="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-name="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/5a781df1-227e-452a-8576-0530244dee94.png" group-title="Dash",Dash Lofi - Chill & Instrumental Hip-Hop Beats
 https://ice55.securenetsystems.net/DASH25
-#EXTINF:-1 radio="true" tvg-id="Polygon" tvg-name="Polygon" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/188/logos/cf6e9f20-d526-4842-8f9e-abe705454c4a.png" group-title="Dash",Polygon
-https://ice55.securenetsystems.net/DASH51
 #EXTINF:-1 radio="true" tvg-id="RadioSpinner - Deep House" tvg-name="RadioSpinner - Deep House" tvg-logo="https://radiospinner.com/images/stations/deephouse-logo.jpg" group-title="RadioSpinner",RadioSpinner - Deep House
 https://live.radiospinner.com/deep-house-96
 #EXTINF:-1 radio="true" tvg-id="RadioSpinner - Tech House" tvg-name="RadioSpinner - Tech House" tvg-logo="https://radiospinner.com/images/stations/5fc7b2e14fcdb.jpg" group-title="RadioSpinner",RadioSpinner - Tech House
