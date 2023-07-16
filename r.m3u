@@ -5,8 +5,6 @@ http://radio.latinurbano.com/radio
 http://radio.djpflow.com/radio
 #EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/~52e852a823d90a7e7f281dfa/images/6046.png" group-title="Main",Hot 97
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
-#EXTINF:-1 radio="true" tvg-id="Power 106" tvg-name="Power 106" tvg-logo="https://i.iheart.com/v3/re/assets/~52bca6e423d90a50228ff760/images/6045.png" group-title="Main",Power 106
-https://17793.live.streamtheworld.com/KPWRAAC.aac
 #EXTINF:-1 radio="true" tvg-id="Power 105.1" tvg-name="Power 105.1" tvg-logo="https://i.iheart.com/v3/re/assets/images/1481.png" group-title="Main",Power 105.1
 https://stream.revma.ihrhls.com/zc1481
 #EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="Main",Mega 97.9 - WSKQ-FM
@@ -79,6 +77,8 @@ https://stream.revma.ihrhls.com/zc4429
 https://stream.revma.ihrhls.com/zc4886
 #EXTINF:-1 radio="true" tvg-id="iHeart Hip Hop 50 Radio" tvg-name="iHeart Hip Hop 50 Radio" tvg-logo="https://i.iheart.com/v3/re/assets.streams/640f7846390b4bd2e8606eb5" group-title="iHeart",iHeart Hip Hop 50 Radio
 https://stream.revma.ihrhls.com/zc9717
+#EXTINF:-1 radio="true" tvg-id="Hip Hop Workout Radio" tvg-name="Hip Hop Workout Radio" tvg-logo="https://i.iheart.com/v3/re/new_assets/b883eec0-d545-416a-b2ff-0823b9070597" group-title="iHeart",Hip Hop Workout Radio
+https://stream.revma.ihrhls.com/zc7785
 #EXTINF:-1 radio="true" tvg-id="Smooth Jazz" tvg-name="Smooth Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a8bc0f9ba37c3dc7f68986" group-title="iHeart",Smooth Jazz
 https://stream.revma.ihrhls.com/zc4242
 #EXTINF:-1 radio="true" tvg-id="Smooth Jazz Top 20" tvg-name="Smooth Jazz Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/643efd3abd6cf8d998763769" group-title="iHeart",Smooth Jazz Top 20
