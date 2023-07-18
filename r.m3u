@@ -49,6 +49,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="SLAM! Housuh in de Pauzuh" tvg-name="SLAM! Housuh in de Pauzuh" tvg-logo="https://cdn-profiles.tunein.com/s308578/images/logog.jpg" group-title="SLAM!",SLAM! Housuh in de Pauzuh
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac
+#EXTINF:-1 radio="true" tvg-id="KISS" tvg-name="KISS" tvg-logo="https://cdn-profiles.tunein.com/s260864/images/logog.png" group-title="KISS",KISS
+https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
+#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS FRESH" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logog.jpg" group-title="KISS",KISS FRESH
+https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.aac
+#EXTINF:-1 radio="true" tvg-id="KISSTORY" tvg-name="KISSTORY" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logog.jpg" group-title="KISS",KISSTORY
+https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
 #EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
 https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
 #EXTINF:-1 radio="true" tvg-id="Qmusic" tvg-name="Qmusic" tvg-logo="https://cdn-profiles.tunein.com/s87683/images/logog.png" group-title="Qmusic",Qmusic
