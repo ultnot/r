@@ -49,19 +49,19 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="SLAM! Housuh in de Pauzuh" tvg-name="SLAM! Housuh in de Pauzuh" tvg-logo="https://cdn-profiles.tunein.com/s308578/images/logog.jpg" group-title="SLAM!",SLAM! Housuh in de Pauzuh
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="KISS" tvg-name="KISS" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png" group-title="KISS Network",KISS
+#EXTINF:-1 radio="true" tvg-id="KISS" tvg-name="KISS" tvg-logo="https://cdn-profiles.tunein.com/s260864/images/logog.png" group-title="KISS Network",KISS
 https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
-#EXTINF:-1 radio="true" tvg-id="KISS DANCE" tvg-name="KISS DANCE" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1661252293/brand_manager/stations/rrtfu6bpnpvhksk459kk.jpg" group-title="KISS Network",KISS DANCE
+#EXTINF:-1 radio="true" tvg-id="KISS DANCE" tvg-name="KISS DANCE" tvg-logo="https://cdn-profiles.tunein.com/s321341/images/logog.jpg" group-title="KISS Network",KISS DANCE
 https://edge-bauerall-01-gos2.sharp-stream.com/webcast6high.aac
-#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS FRESH" tvg-logo="https://media.bauerradio.com/image/upload/q_auto/v1681313197/shows/t54ganm3dveznum33nm4.png" group-title="KISS Network",KISS FRESH
+#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS FRESH" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logog.jpg" group-title="KISS Network",KISS FRESH
 https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.aac
-#EXTINF:-1 radio="true" tvg-id="KISSTORY" tvg-name="KISSTORY" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1618314680/brand_manager/stations/brapvzdtutt6bbn44cjx.png" group-title="KISS Network",KISSTORY
+#EXTINF:-1 radio="true" tvg-id="KISSTORY" tvg-name="KISSTORY" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logog.jpg" group-title="KISS Network",KISSTORY
 https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
-#EXTINF:-1 radio="true" tvg-id="KISS BLISS" tvg-name="KISS BLISS" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1620296156/brand_manager/stations/x2j4otqnrvmcqqrwzceo.jpg" group-title="KISS Network",KISS BLISS
+#EXTINF:-1 radio="true" tvg-id="KISS BLISS" tvg-name="KISS BLISS" tvg-logo="https://cdn-profiles.tunein.com/s321340/images/logog.jpg" group-title="KISS Network",KISS BLISS
 https://edge-bauerall-01-gos2.sharp-stream.com/webcast7high.aac
-#EXTINF:-1 radio="true" tvg-id="HEAT RADIO" tvg-name="HEAT RADIO" tvg-logo="https://media.bauerradio.com/image/upload/q_auto/v1686913328/shows/scfendebtwbivvyqh7bz.png" group-title="Bauer Media",HEAT RADIO
+#EXTINF:-1 radio="true" tvg-id="HEAT RADIO" tvg-name="HEAT RADIO" tvg-logo="https://cdn-profiles.tunein.com/s97623/images/logog.jpg" group-title="Bauer Media",HEAT RADIO
 https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
-#EXTINF:-1 radio="true" tvg-id="HITS RADIO" tvg-name="HITS RADIO" tvg-logo="https://media.bauerradio.com/image/upload/q_auto/v1686913328/shows/scfendebtwbivvyqh7bz.png" group-title="Bauer Media",HITS RADIO
+#EXTINF:-1 radio="true" tvg-id="HITS RADIO" tvg-name="HITS RADIO" tvg-logo="https://cdn-profiles.tunein.com/s323557/images/logog.jpg" group-title="Bauer Media",HITS RADIO
 https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
 #EXTINF:-1 radio="true" tvg-id="JAZZ RADIO" tvg-name="JAZZ RADIO" tvg-logo="https://media.bauerradio.com/image/upload/q_auto/v1680720591/shows/zhygh5cg0nufg7aamovf.png" group-title="Bauer Media",JAZZ RADIO
 https://edge-bauerall-01-gos2.sharp-stream.com/jazzhigh.aac
