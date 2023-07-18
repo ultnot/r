@@ -49,14 +49,22 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="SLAM! Housuh in de Pauzuh" tvg-name="SLAM! Housuh in de Pauzuh" tvg-logo="https://cdn-profiles.tunein.com/s308578/images/logog.jpg" group-title="SLAM!",SLAM! Housuh in de Pauzuh
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="KISS" tvg-name="KISS" tvg-logo="https://cdn-profiles.tunein.com/s260864/images/logog.png" group-title="KISS",KISS
+#EXTINF:-1 radio="true" tvg-id="KISS" tvg-name="KISS" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png" group-title="KISS Network",KISS
 https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
-#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS FRESH" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logog.jpg" group-title="KISS",KISS FRESH
+#EXTINF:-1 radio="true" tvg-id="KISS DANCE" tvg-name="KISS DANCE" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1661252293/brand_manager/stations/rrtfu6bpnpvhksk459kk.jpg" group-title="KISS Network",KISS DANCE
+https://edge-bauerall-01-gos2.sharp-stream.com/webcast6high.aac
+#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS FRESH" tvg-logo="https://media.bauerradio.com/image/upload/q_auto/v1681313197/shows/t54ganm3dveznum33nm4.png" group-title="KISS Network",KISS FRESH
 https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.aac
-#EXTINF:-1 radio="true" tvg-id="KISSTORY" tvg-name="KISSTORY" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logog.jpg" group-title="KISS",KISSTORY
+#EXTINF:-1 radio="true" tvg-id="KISSTORY" tvg-name="KISSTORY" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1618314680/brand_manager/stations/brapvzdtutt6bbn44cjx.png" group-title="KISS Network",KISSTORY
 https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
-#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
-https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+#EXTINF:-1 radio="true" tvg-id="KISS BLISS" tvg-name="KISS BLISS" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1620296156/brand_manager/stations/x2j4otqnrvmcqqrwzceo.jpg" group-title="KISS Network",KISS BLISS
+https://edge-bauerall-01-gos2.sharp-stream.com/webcast7high.aac
+#EXTINF:-1 radio="true" tvg-id="HEAT RADIO" tvg-name="HEAT RADIO" tvg-logo="https://media.bauerradio.com/image/upload/q_auto/v1686913328/shows/scfendebtwbivvyqh7bz.png" group-title="Bauer Media",HEAT RADIO
+https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
+#EXTINF:-1 radio="true" tvg-id="HITS RADIO" tvg-name="HITS RADIO" tvg-logo="https://media.bauerradio.com/image/upload/q_auto/v1686913328/shows/scfendebtwbivvyqh7bz.png" group-title="Bauer Media",HITS RADIO
+https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
+#EXTINF:-1 radio="true" tvg-id="JAZZ RADIO" tvg-name="JAZZ RADIO" tvg-logo="https://media.bauerradio.com/image/upload/q_auto/v1680720591/shows/zhygh5cg0nufg7aamovf.png" group-title="Bauer Media",JAZZ RADIO
+https://edge-bauerall-01-gos2.sharp-stream.com/jazzhigh.aac
 #EXTINF:-1 radio="true" tvg-id="Qmusic" tvg-name="Qmusic" tvg-logo="https://cdn-profiles.tunein.com/s87683/images/logog.png" group-title="Qmusic",Qmusic
 https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac
 #EXTINF:-1 radio="true" tvg-id="Q-Foute Radio" tvg-name="Q-Foute Radio" tvg-logo="https://cdn-profiles.tunein.com/s308757/images/logog.jpg" group-title="Qmusic",Q-Foute Radio
@@ -73,6 +81,8 @@ https://icecast-qmusicbe-cdp.triple-it.nl/q-top40.aac
 https://icecast-qmusicbe-cdp.triple-it.nl/q-workout.aac
 #EXTINF:-1 radio="true" tvg-id="Q-I Love The 90's" tvg-name="Q-I Love The 90's" tvg-logo="https://cdn-profiles.tunein.com/s309410/images/logog.jpg" group-title="Qmusic",Q-I Love The 90's
 https://icecast-qmusicbe-cdp.triple-it.nl/q-ilt90s.aac
+#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
+https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
 #EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="Main",Chilltrax
 https://streamssl2.chilltrax.com/index.html
 #EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - Chillout
