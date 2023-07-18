@@ -51,6 +51,22 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
 https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+#EXTINF:-1 radio="true" tvg-id="Qmusic" tvg-name="Qmusic" tvg-logo="https://cdn-profiles.tunein.com/s87683/images/logog.png" group-title="Qmusic",Qmusic
+https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac
+#EXTINF:-1 radio="true" tvg-id="Q-Foute Radio" tvg-name="Q-Foute Radio" tvg-logo="https://cdn-profiles.tunein.com/s308757/images/logog.jpg" group-title="Qmusic",Q-Foute Radio
+https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac
+#EXTINF:-1 radio="true" tvg-id="Q-Maximum Hits" tvg-name="Q-Maximum Hits" tvg-logo="https://cdn-profiles.tunein.com/s310489/images/logog.jpg" group-title="Qmusic",Q-Maximum Hits
+https://icecast-qmusicbe-cdp.triple-it.nl/q-maximum-hits.aac
+#EXTINF:-1 radio="true" tvg-id="Q-Summer" tvg-name="Q-Summer" tvg-logo="https://cdn-profiles.tunein.com/s280138/images/logog.jpg" group-title="Qmusic",Q-Summer
+https://icecast-qmusicbe-cdp.triple-it.nl/q-summer.aac
+#EXTINF:-1 radio="true" tvg-id="Q-Party" tvg-name="Q-Party" tvg-logo="https://cdn-profiles.tunein.com/s308758/images/logog.jpg" group-title="Qmusic",Q-Party
+https://icecast-qmusicbe-cdp.triple-it.nl/q-party.aac
+#EXTINF:-1 radio="true" tvg-id="Q-Top 40" tvg-name="Q-Top 40" tvg-logo="https://cdn-profiles.tunein.com/s308759/images/logog.jpg" group-title="Qmusic",Q-Top 40
+https://icecast-qmusicbe-cdp.triple-it.nl/q-top40.aac
+#EXTINF:-1 radio="true" tvg-id="Q-Workout" tvg-name="Q-Workout" tvg-logo="https://cdn-profiles.tunein.com/s320794/images/logog.jpg" group-title="Qmusic",Q-Workout
+https://icecast-qmusicbe-cdp.triple-it.nl/q-workout.aac
+#EXTINF:-1 radio="true" tvg-id="Q-I Love The 90's" tvg-name="Q-I Love The 90's" tvg-logo="https://cdn-profiles.tunein.com/s309410/images/logog.jpg" group-title="Qmusic",Q-I Love The 90's
+https://icecast-qmusicbe-cdp.triple-it.nl/q-ilt90s.aac
 #EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="Main",Chilltrax
 https://streamssl2.chilltrax.com/index.html
 #EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - Chillout
