@@ -9,6 +9,20 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
 https://stream.revma.ihrhls.com/zc1481
 #EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="Main",Mega 97.9 - WSKQ-FM
 https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
+#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
+https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+#EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="Main",Chilltrax
+https://streamssl2.chilltrax.com/index.html
+#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - Chillout
+https://streams.radio.co/se1a320b47/listen
+#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - House" tvg-name="Cafe del Mar Radio - House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - House
+https://s4.radio.co/seeae9c220/listen
+#EXTINF:-1 radio="true" tvg-id="BOX Radio - Lofi Radio" tvg-name="BOX Radio - Lofi Radio" tvg-logo="https://boxradio.net/wp-content/uploads/brizy/imgs/boxlofi-1-555x555x0x0x555x555x1665697255.jpg" group-title="Main",BOX Radio - Lofi Radio
+https://play.streamafrica.net/lofiradio
+#EXTINF:-1 radio="true" tvg-id="House FM" tvg-name="House FM" tvg-logo="https://play-lh.googleusercontent.com/b3VlVcpTRFf6btlaHDf36OcrLXL5jvipSrnaPn0bA_bR1AbQzklAh0-P6Y8wV3UJsuo" group-title="Main",House FM
+https://streamer.radio.co/s0de514535/listen
+#EXTINF:-1 radio="true" tvg-id="Worldwide FM" tvg-name="Worldwide FM" tvg-logo="https://play-lh.googleusercontent.com/LIUxQwBItsQtqV-ZdJ8u8gmf92spev3Q7NJ0qW754Z2gH5ySzJVl-QyIUDiEF85SdA" group-title="Main",Worldwide FM
+https://worldwidefm.out.airtime.pro/worldwidefm_b
 #EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 #EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Dance" tvg-name="BBC Radio 1 Dance" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_dance/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1 Dance
@@ -51,20 +65,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="KISS" tvg-name="KISS" tvg-logo="https://cdn-profiles.tunein.com/s260864/images/logog.png" group-title="KISS Network",KISS
 https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
-#EXTINF:-1 radio="true" tvg-id="KISS DANCE" tvg-name="KISS DANCE" tvg-logo="https://cdn-profiles.tunein.com/s321341/images/logog.jpg" group-title="KISS Network",KISS DANCE
-https://edge-bauerall-01-gos2.sharp-stream.com/webcast6high.aac
-#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS FRESH" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logog.jpg" group-title="KISS Network",KISS FRESH
-https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.aac
 #EXTINF:-1 radio="true" tvg-id="KISSTORY" tvg-name="KISSTORY" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logog.jpg" group-title="KISS Network",KISSTORY
 https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
+#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS FRESH" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logog.jpg" group-title="KISS Network",KISS FRESH
+https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.aac
+#EXTINF:-1 radio="true" tvg-id="KISS DANCE" tvg-name="KISS DANCE" tvg-logo="https://cdn-profiles.tunein.com/s321341/images/logog.jpg" group-title="KISS Network",KISS DANCE
+https://edge-bauerall-01-gos2.sharp-stream.com/webcast6high.aac
 #EXTINF:-1 radio="true" tvg-id="KISS BLISS" tvg-name="KISS BLISS" tvg-logo="https://cdn-profiles.tunein.com/s321340/images/logog.jpg" group-title="KISS Network",KISS BLISS
 https://edge-bauerall-01-gos2.sharp-stream.com/webcast7high.aac
-#EXTINF:-1 radio="true" tvg-id="HEAT RADIO" tvg-name="HEAT RADIO" tvg-logo="https://cdn-profiles.tunein.com/s97623/images/logog.jpg" group-title="Bauer Media",HEAT RADIO
-https://edge-bauerall-01-gos2.sharp-stream.com/heat.aac
-#EXTINF:-1 radio="true" tvg-id="HITS RADIO" tvg-name="HITS RADIO" tvg-logo="https://cdn-profiles.tunein.com/s323557/images/logog.jpg" group-title="Bauer Media",HITS RADIO
-https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
-#EXTINF:-1 radio="true" tvg-id="JAZZ RADIO" tvg-name="JAZZ RADIO" tvg-logo="https://media.bauerradio.com/image/upload/q_auto/v1680720591/shows/zhygh5cg0nufg7aamovf.png" group-title="Bauer Media",JAZZ RADIO
-https://edge-bauerall-01-gos2.sharp-stream.com/jazzhigh.aac
 #EXTINF:-1 radio="true" tvg-id="Qmusic" tvg-name="Qmusic" tvg-logo="https://cdn-profiles.tunein.com/s87683/images/logog.png" group-title="Qmusic",Qmusic
 https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac
 #EXTINF:-1 radio="true" tvg-id="Q-Foute Radio" tvg-name="Q-Foute Radio" tvg-logo="https://cdn-profiles.tunein.com/s308757/images/logog.jpg" group-title="Qmusic",Q-Foute Radio
@@ -81,20 +89,6 @@ https://icecast-qmusicbe-cdp.triple-it.nl/q-top40.aac
 https://icecast-qmusicbe-cdp.triple-it.nl/q-workout.aac
 #EXTINF:-1 radio="true" tvg-id="Q-I Love The 90's" tvg-name="Q-I Love The 90's" tvg-logo="https://cdn-profiles.tunein.com/s309410/images/logog.jpg" group-title="Qmusic",Q-I Love The 90's
 https://icecast-qmusicbe-cdp.triple-it.nl/q-ilt90s.aac
-#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
-https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
-#EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="Main",Chilltrax
-https://streamssl2.chilltrax.com/index.html
-#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - Chillout
-https://streams.radio.co/se1a320b47/listen
-#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - House" tvg-name="Cafe del Mar Radio - House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - House
-https://s4.radio.co/seeae9c220/listen
-#EXTINF:-1 radio="true" tvg-id="BOX Radio - Lofi Radio" tvg-name="BOX Radio - Lofi Radio" tvg-logo="https://boxradio.net/wp-content/uploads/brizy/imgs/boxlofi-1-555x555x0x0x555x555x1665697255.jpg" group-title="Main",BOX Radio - Lofi Radio
-https://play.streamafrica.net/lofiradio
-#EXTINF:-1 radio="true" tvg-id="House FM" tvg-name="House FM" tvg-logo="https://play-lh.googleusercontent.com/b3VlVcpTRFf6btlaHDf36OcrLXL5jvipSrnaPn0bA_bR1AbQzklAh0-P6Y8wV3UJsuo" group-title="Main",House FM
-https://streamer.radio.co/s0de514535/listen
-#EXTINF:-1 radio="true" tvg-id="Worldwide FM" tvg-name="Worldwide FM" tvg-logo="https://play-lh.googleusercontent.com/LIUxQwBItsQtqV-ZdJ8u8gmf92spev3Q7NJ0qW754Z2gH5ySzJVl-QyIUDiEF85SdA" group-title="Main",Worldwide FM
-https://worldwidefm.out.airtime.pro/worldwidefm_b
 #EXTINF:-1 radio="true" tvg-id="iHeartClassical" tvg-name="iHeartClassical" tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="iHeart",iHeartClassical
 https://stream.revma.ihrhls.com/zc6377
 #EXTINF:-1 radio="true" tvg-id="Evolution" tvg-name="Evolution" tvg-logo="https://i.iheart.com/v3/re/new_assets/7b78fd03-66b1-4b9a-bd41-fb9638a82a24" group-title="iHeart",Evolution
