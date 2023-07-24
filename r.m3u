@@ -122,7 +122,7 @@ https://stream.revma.ihrhls.com/zc6784
 #EXTINF:-1 radio="true" tvg-id="Salsa Bembé" tvg-name="Salsa Bembé" tvg-logo="https://i.iheart.com/v3/re/new_assets/53f10e4d-e303-487e-9feb-6e0bdbfdccc4" group-title="iHeart",Salsa Bembé
 https://stream.revma.ihrhls.com/zc7192
 #EXTINF:-1 radio="true" tvg-id="Latin Jazz" tvg-name="Latin Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d276e0c93ae1fbff3d2c341" group-title="iHeart",Latin Jazz
-https://23023.live.streamtheworld.com/ACIR45_S01AAC/HLS/997bda6e-cb7e-47f3-bcfd-b760dd050a68/0/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR45_S01AAC.m3u8
 #EXTINF:-1 radio="true" tvg-id="La X96.3 FM" tvg-name="La X96.3 FM" tvg-logo="https://i.iheart.com/v3/re/new_assets/5df006f201f78836ac596cd2" group-title="iHeart",La X96.3 FM
 https://live.wostreaming.net/direct/univision-wxnyfmaac-ibc1
 #EXTINF:-1 radio="true" tvg-id="Today's Mix" tvg-name="Today's Mix" tvg-logo="https://i.iheart.com/v3/re/assets/images/4409.png" group-title="iHeart",Today's Mix
@@ -153,8 +153,10 @@ https://stream.revma.ihrhls.com/zc8830
 https://stream.revma.ihrhls.com/zc4722
 #EXTINF:-1 radio="true" tvg-id="Pop Top 20" tvg-name="Pop Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/641e2f9002602ae7dcd0e9ad" group-title="iHeart",Pop Top 20
 https://stream.revma.ihrhls.com/zc4878
-#EXTINF:-1 radio="true" tvg-id="LoFi - Relax - iHeart" tvg-name="LoFi - Relax - iHeart" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="iHeart",LoFi - Relax
-https://23023.live.streamtheworld.com/ACIR41_S01AAC/HLS/0cf295d1-f913-46e4-9735-141ae246608d/0/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="LoFi - Relax" tvg-name="LoFi - Relax" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="iHeart",LoFi - Relax
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR41_S01AAC.m3u8
+#EXTINF:-1 radio="true" tvg-id="Relaxing Sounds" tvg-name="Relaxing Sounds" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d2780356ea1fbc86771f071" group-title="iHeart",Relaxing Sounds
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR43_S01AAC.m3u8
 #EXTINF:-1 radio="true" tvg-id="Dash Pop X" tvg-name="Dash Pop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXPOP/dash_x_pop_color_324.png" group-title="Dash",Dash Pop X
 https://ice55.securenetsystems.net/DASH17
 #EXTINF:-1 radio="true" tvg-id="Dash Hits X" tvg-name="Dash Hits X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/214/logos/c701b24d-c9f9-41da-8829-01baa5cea68a.png" group-title="Dash",Dash Hits X
