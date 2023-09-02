@@ -3,8 +3,10 @@
 http://radio.latinurbano.com/radio
 #EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://djpflow.com/logo.jpg" group-title="Main",DJ Pflow Radio
 http://radio.djpflow.com/radio
-#EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/~52e852a823d90a7e7f281dfa/images/6046.png" group-title="Main",Hot 97
+#EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/images/6046.png" group-title="Main",Hot 97
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
+#EXTINF:-1 radio="true" tvg-id="WBLS" tvg-name="WBLS" tvg-logo="https://i.iheart.com/v3/re/assets/images/6493.png" group-title="Main",WBLS
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFMAAC.aac
 #EXTINF:-1 radio="true" tvg-id="Power 105.1" tvg-name="Power 105.1" tvg-logo="https://i.iheart.com/v3/re/assets/images/1481.png" group-title="Main",Power 105.1
 https://stream.revma.ihrhls.com/zc1481
 #EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="Main",Mega 97.9 - WSKQ-FM
