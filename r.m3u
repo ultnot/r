@@ -14,7 +14,7 @@ https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
 #EXTINF:-1 radio="true" tvg-id="La X96.3 FM" tvg-name="La X96.3 FM" tvg-logo="https://i.iheart.com/v3/re/new_assets/5df006f201f78836ac596cd2" group-title="Main",La X96.3 FM
 http://in.icy2.abacast.com/univision-wxnyfmaac-im.m3u
 #EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
-https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
 #EXTINF:-1 radio="true" tvg-id="One World Radio" tvg-name="One World Radio" tvg-logo="https://cdn-profiles.tunein.com/s307749/images/logog.jpg" group-title="Main",One World Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
 #EXTINF:-1 radio="true" tvg-id="Defected Radio" tvg-name="Defected Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Defected_Logo.jpg/1200px-Defected_Logo.jpg" group-title="Main",Defected Radio
