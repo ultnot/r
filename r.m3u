@@ -13,10 +13,16 @@ https://stream.revma.ihrhls.com/zc1481
 https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
 #EXTINF:-1 radio="true" tvg-id="La X96.3 FM" tvg-name="La X96.3 FM" tvg-logo="https://i.iheart.com/v3/re/new_assets/5df006f201f78836ac596cd2" group-title="Main",La X96.3 FM
 http://in.icy2.abacast.com/univision-wxnyfmaac-im.m3u
+#EXTINF:-1 radio="true" tvg-id="Z105.7" tvg-name="Z105.7" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6596f8863480a363d29fa525" group-title="Main",Z105.7
+https://stream.revma.ihrhls.com/zc749
 #EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
-https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
-#EXTINF:-1 radio="true" tvg-id="One World Radio" tvg-name="One World Radio" tvg-logo="https://cdn-profiles.tunein.com/s307749/images/logog.png" group-title="Main",One World Radio
+https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+#EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio" tvg-name="Tomorrowland - One World Radio" tvg-logo="https://cdn-profiles.tunein.com/s307749/images/logog.png" group-title="Main",Tomorrowland - One World Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
+#EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio - Daybreak Sessions" tvg-name="Tomorrowland - One World Radio - Daybreak Sessions" tvg-logo="https://cdn-profiles.tunein.com/s308839/images/logog.png" group-title="Main",Tomorrowland - One World Radio - Daybreak Sessions
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAKAAC.aac
+#EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio - Anthems" tvg-name="Tomorrowland - One World Radio - Anthems" tvg-logo="https://cdn-profiles.tunein.com/s309698/images/logog.png" group-title="Radio",Tomorrowland - One World Radio - Anthems
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DABAAC.aac
 #EXTINF:-1 radio="true" tvg-id="Defected Radio" tvg-name="Defected Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Defected_Logo.jpg/1200px-Defected_Logo.jpg" group-title="Main",Defected Radio
 https://solid41.streamupsolutions.com//proxy//tbkhkrlu//stream
 #EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="Main",Chilltrax
@@ -155,7 +161,7 @@ https://stream.revma.ihrhls.com/zc8830
 https://stream.revma.ihrhls.com/zc4722
 #EXTINF:-1 radio="true" tvg-id="Pop Top 20" tvg-name="Pop Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/641e2f9002602ae7dcd0e9ad" group-title="iHeart",Pop Top 20
 https://stream.revma.ihrhls.com/zc4878
-#EXTINF:-1 radio="true" tvg-id="LoFi - Relax" tvg-name="LoFi - Relax" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="iHeart",LoFi - Relax
+#EXTINF:-1 radio="true" tvg-id="LoFi - Relax" tvg-name="LoFi - Relax" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61" group-title="iHeart",LoFi - Relax
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR41_S01AAC.m3u8
 #EXTINF:-1 radio="true" tvg-id="Relaxing Sounds" tvg-name="Relaxing Sounds" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d2780356ea1fbc86771f071" group-title="iHeart",Relaxing Sounds
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR43_S01AAC.m3u8
