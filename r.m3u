@@ -3,6 +3,8 @@
 http://radio.latinurbano.com/radio
 #EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://djpflow.com/logo.jpg" group-title="Main",DJ Pflow Radio
 http://radio.djpflow.com/radio
+#EXTINF:-1 radio="true" tvg-id="DJ Lobo Radio" tvg-name="DJ Lobo Radio" tvg-logo="https://play-lh.googleusercontent.com/3AxKX45PBolzw0KawIb5WpZrP5f5TcFYOx6uzBPLq6DQYKm9lNGpZ0iCLpgKN6OR5nGB" group-title="Radio",DJ Lobo Radio
+https://s4.yesstreaming.net:17028/stream
 #EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/images/6046.png" group-title="Main",Hot 97
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
 #EXTINF:-1 radio="true" tvg-id="WBLS" tvg-name="WBLS" tvg-logo="https://i.iheart.com/v3/re/assets/images/6493.png" group-title="Main",WBLS
