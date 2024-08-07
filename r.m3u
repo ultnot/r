@@ -27,6 +27,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAKAA
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DABAAC.aac
 #EXTINF:-1 radio="true" tvg-id="Defected Radio" tvg-name="Defected Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Defected_Logo.jpg/1200px-Defected_Logo.jpg" group-title="Main",Defected Radio
 https://solid41.streamupsolutions.com//proxy//tbkhkrlu//stream
+#EXTINF:-1 radio="true" tvg-id="Mambo Radio" tvg-name="Mambo Radio" tvg-logo="https://cdn-profiles.tunein.com/s301072/images/logog.png" group-title="Main",Mambo Radio
+https://streamer.radio.co/sd7b28e5f3/listen
 #EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="Main",Chilltrax
 https://streamssl2.chilltrax.com/index.html
 #EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - Chillout
