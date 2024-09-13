@@ -18,7 +18,7 @@ http://in.icy2.abacast.com/univision-wxnyfmaac-im.m3u
 #EXTINF:-1 radio="true" tvg-id="Z105.7" tvg-name="Z105.7" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6596f8863480a363d29fa525" group-title="Main",Z105.7
 https://stream.revma.ihrhls.com/zc749
 #EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
-https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
 #EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio" tvg-name="Tomorrowland - One World Radio" tvg-logo="https://cdn-profiles.tunein.com/s307749/images/logog.png" group-title="Main",Tomorrowland - One World Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
 #EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio - Daybreak Sessions" tvg-name="Tomorrowland - One World Radio - Daybreak Sessions" tvg-logo="https://cdn-profiles.tunein.com/s308839/images/logog.png" group-title="Main",Tomorrowland - One World Radio - Daybreak Sessions
