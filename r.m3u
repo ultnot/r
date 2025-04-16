@@ -86,25 +86,27 @@ https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
 #EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS XTRA" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logog.jpg" group-title="KISS Network",KISS XTRA
 https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.aac
 #EXTINF:-1 radio="true" tvg-id="KISS DANCE" tvg-name="KISS DANCE" tvg-logo="https://cdn-profiles.tunein.com/s321341/images/logog.jpg" group-title="KISS Network",KISS DANCE
-https://edge-bauerall-01-gos2.sharp-stream.com/webcast6high.aac
+https://edge-bauerall-01-gos2.sharp-stream.com/kissdance.aac
 #EXTINF:-1 radio="true" tvg-id="KISS BLISS" tvg-name="KISS BLISS" tvg-logo="https://cdn-profiles.tunein.com/s321340/images/logog.jpg" group-title="KISS Network",KISS BLISS
 https://edge-bauerall-01-gos2.sharp-stream.com/webcast7high.aac
 #EXTINF:-1 radio="true" tvg-id="Qmusic" tvg-name="Qmusic" tvg-logo="https://cdn-profiles.tunein.com/s87683/images/logog.png" group-title="Qmusic",Qmusic
 https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac
 #EXTINF:-1 radio="true" tvg-id="Q-Foute Radio" tvg-name="Q-Foute Radio" tvg-logo="https://cdn-profiles.tunein.com/s308757/images/logog.jpg" group-title="Qmusic",Q-Foute Radio
 https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac
+#EXTINF:-1 radio="true" tvg-id="Qmusic non-stop" tvg-name="Qmusic non-stop" tvg-logo="https://cdn-radiotime-logos.tunein.com/s210431g.png" group-title="Qmusic",Qmusic non-stop
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_high.aac
 #EXTINF:-1 radio="true" tvg-id="Q-Maximum Hits" tvg-name="Q-Maximum Hits" tvg-logo="https://cdn-profiles.tunein.com/s310489/images/logog.jpg" group-title="Qmusic",Q-Maximum Hits
-https://icecast-qmusicbe-cdp.triple-it.nl/q-maximum-hits.aac
+https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac
 #EXTINF:-1 radio="true" tvg-id="Q-Summer" tvg-name="Q-Summer" tvg-logo="https://cdn-profiles.tunein.com/s280138/images/logog.jpg" group-title="Qmusic",Q-Summer
 https://icecast-qmusicbe-cdp.triple-it.nl/q-summer.aac
 #EXTINF:-1 radio="true" tvg-id="Q-Party" tvg-name="Q-Party" tvg-logo="https://cdn-profiles.tunein.com/s308758/images/logog.jpg" group-title="Qmusic",Q-Party
 https://icecast-qmusicbe-cdp.triple-it.nl/q-party.aac
-#EXTINF:-1 radio="true" tvg-id="Q-Top 40" tvg-name="Q-Top 40" tvg-logo="https://cdn-profiles.tunein.com/s308759/images/logog.jpg" group-title="Qmusic",Q-Top 40
-https://icecast-qmusicbe-cdp.triple-it.nl/q-top40.aac
+#EXTINF:-1 radio="true" tvg-id="Q-Top 40" tvg-name="Q-Top 40" tvg-logo="https://cdn-profiles.tunein.com/s307478/images/logog.jpg" group-title="Qmusic",Q-Top 40
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_high.aac
 #EXTINF:-1 radio="true" tvg-id="Q-Workout" tvg-name="Q-Workout" tvg-logo="https://cdn-profiles.tunein.com/s320794/images/logog.jpg" group-title="Qmusic",Q-Workout
 https://icecast-qmusicbe-cdp.triple-it.nl/q-workout.aac
-#EXTINF:-1 radio="true" tvg-id="Q-I Love The 90's" tvg-name="Q-I Love The 90's" tvg-logo="https://cdn-profiles.tunein.com/s309410/images/logog.jpg" group-title="Qmusic",Q-I Love The 90's
-https://icecast-qmusicbe-cdp.triple-it.nl/q-ilt90s.aac
+#EXTINF:-1 radio="true" tvg-id="Qmusic 90s & 00s" tvg-name="Qmusic 90s & 00s" tvg-logo="https://cdn-profiles.tunein.com/s309410/images/logog.jpg" group-title="Qmusic",Qmusic 90s & 00s
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_90s00s_high.aac
 #EXTINF:-1 radio="true" tvg-id="iHeartClassical" tvg-name="iHeartClassical" tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="iHeart",iHeartClassical
 https://stream.revma.ihrhls.com/zc6377
 #EXTINF:-1 radio="true" tvg-id="Evolution" tvg-name="Evolution" tvg-logo="https://i.iheart.com/v3/re/new_assets/7b78fd03-66b1-4b9a-bd41-fb9638a82a24" group-title="iHeart",Evolution
@@ -167,48 +169,44 @@ https://stream.revma.ihrhls.com/zc4878
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR41_S01AAC.m3u8
 #EXTINF:-1 radio="true" tvg-id="Relaxing Sounds" tvg-name="Relaxing Sounds" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d2780356ea1fbc86771f071" group-title="iHeart",Relaxing Sounds
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR43_S01AAC.m3u8
-#EXTINF:-1 radio="true" tvg-id="Dash Pop X" tvg-name="Dash Pop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXPOP/dash_x_pop_color_324.png" group-title="Dash",Dash Pop X
-https://ice55.securenetsystems.net/DASH17
-#EXTINF:-1 radio="true" tvg-id="Dash Hits X" tvg-name="Dash Hits X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/214/logos/c701b24d-c9f9-41da-8829-01baa5cea68a.png" group-title="Dash",Dash Hits X
-https://ice55.securenetsystems.net/DASH58
-#EXTINF:-1 radio="true" tvg-id="Dash X" tvg-name="Dash X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHX/dash_x_color_324.png" group-title="Dash",Dash X
-https://ice55.securenetsystems.net/DASH50
-#EXTINF:-1 radio="true" tvg-id="Dash Hip-Hop X" tvg-name="Dash Hip-Hop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXHIPHOP/dash_x_hiphop_color_324.png" group-title="Dash",Dash Hip-Hop X
-https://ice55.securenetsystems.net/DASH90
-#EXTINF:-1 radio="true" tvg-id="The City - Today's Hottest Hip-Hop & R&B" tvg-name="The City - Today's Hottest Hip-Hop & R&B" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/49/logos/f2bfb506-9f0e-4e0a-9a6c-65cf83743777.png" group-title="Dash",The City - Today's Hottest Hip-Hop & R&B
-https://ice55.securenetsystems.net/DASH2
-#EXTINF:-1 radio="true" tvg-id="Native Rhymes - Classic Hip-Hop" tvg-name="Native Rhymes - Classic Hip-Hop" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/NativeRhymes.png" group-title="Dash",Native Rhymes - Classic Hip-Hop
-https://ice55.securenetsystems.net/DASH18
-#EXTINF:-1 radio="true" tvg-id="BPM Supreme Radio" tvg-name="BPM Supreme Radio" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/d997833e-6f07-4e34-b88f-f1ecd9734dd7.png" group-title="Dash",BPM Supreme Radio
+#EXTINF:-1 radio="true" tvg-id="Pop X" tvg-name="Pop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/28/logos/a8d4afab-9b00-4b55-b2b5-7b8f30311460.png" group-title="LITT Live",Pop X
+https://das-sa39.cdnstream1.com/5587_128
+#EXTINF:-1 radio="true" tvg-id="Hits X" tvg-name="Hits X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/214/logos/66047b71-99dd-490e-875c-f0828fdfadeb.png" group-title="LITT Live",Hits X
+https://das-sa39.cdnstream1.com/5572_128
+#EXTINF:-1 radio="true" tvg-id="X" tvg-name="X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/3/logos/759d169c-bebd-4900-acbc-f7dd16a94020.png" group-title="LITT Live",X
+https://das-sa39.cdnstream1.com/5603_128
+#EXTINF:-1 radio="true" tvg-id="Hip-Hop X" tvg-name="Hip-Hop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/33/logos/5b2d1af7-23bf-453f-aa67-a433d3e7f83d.png" group-title="LITT Live",Hip-Hop X
+https://das-sa39.cdnstream1.com/6067_128
+#EXTINF:-1 radio="true" tvg-id="The City - Today's Hottest Hip-Hop & R&B" tvg-name="The City - Today's Hottest Hip-Hop & R&B" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/49/logos/4b775cb3-d8bb-4ff8-94b7-95efda96e9b3.png" group-title="LITT Live",The City - Today's Hottest Hip-Hop & R&B
+https://das-sa39.cdnstream1.com/6066_128
+#EXTINF:-1 radio="true" tvg-id="Native Rhymes - Classic Hip-Hop" tvg-name="Native Rhymes - Classic Hip-Hop" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/NativeRhymes.png" group-title="LITT Live",Native Rhymes - Classic Hip-Hop
+https://das-sa39.cdnstream1.com/5584_128
+#EXTINF:-1 radio="true" tvg-id="BPM Supreme Radio" tvg-name="BPM Supreme Radio" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/d997833e-6f07-4e34-b88f-f1ecd9734dd7.png" group-title="LITT Live",BPM Supreme Radio
 https://ice55.securenetsystems.net/DASH4
-#EXTINF:-1 radio="true" tvg-id="Insomniac Radio - Electronic Music & Festivals" tvg-name="Insomniac Radio - Electronic Music & Festivals" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/218/logos/c0d7b14a-9c44-4818-94ab-4ae8039ab5cb.png" group-title="Dash",Insomniac Radio - Electronic Music & Festivals
-https://ice55.securenetsystems.net/DASH65
-#EXTINF:-1 radio="true" tvg-id="Dash Dance X" tvg-name="Dash Dance X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHDANCE/dash_x_dance_color_324.png" group-title="Dash",Dash Dance X
-https://ice55.securenetsystems.net/DASH81
-#EXTINF:-1 radio="true" tvg-id="Dash Bot X" tvg-name="Dash Bot X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/138/logos/fb9eaebf-1de6-4cef-99ae-b183e41fe4af.png" group-title="Dash",Dash Bot X
-https://ice55.securenetsystems.net/DASH45
-#EXTINF:-1 radio="true" tvg-id="Electro City - Electronic Music" tvg-name="Electro City - Electronic Music" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Electrocity.png" group-title="Dash",Electro City - Electronic Music
+#EXTINF:-1 radio="true" tvg-id="Insomniac Radio - Electronic Music & Festivals" tvg-name="Insomniac Radio - Electronic Music & Festivals" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/218/logos/c0d7b14a-9c44-4818-94ab-4ae8039ab5cb.png" group-title="LITT Live",Insomniac Radio - Electronic Music & Festivals
+https://stream-01.aiir.com/hoy4lohjjgiuv
+#EXTINF:-1 radio="true" tvg-id="Dance X" tvg-name="Dance X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/198/logos/135e89fe-75d6-4c16-837e-925f47a45a41.png" group-title="LITT Live",Dance X
+https://das-sa39.cdnstream1.com/5564_128
+#EXTINF:-1 radio="true" tvg-id="Electro City - Electronic Music" tvg-name="Electro City - Electronic Music" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Electrocity.png" group-title="LITT Live",Electro City - Electronic Music
 https://ice55.securenetsystems.net/DASH9
-#EXTINF:-1 radio="true" tvg-id="Overdrive - Mixes  Remixes  Bootlegs  & Mashups" tvg-name="Overdrive - Mixes  Remixes  Bootlegs  & Mashups" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/180/logos/8ae49444-f5b2-49a9-8fce-07d985d61fe3.png" group-title="Dash",Overdrive - Mixes  Remixes  Bootlegs  & Mashups
-https://ice55.securenetsystems.net/DASH73
-#EXTINF:-1 radio="true" tvg-id="Waves - Chill Electronic & Lofi" tvg-name="Waves - Chill Electronic & Lofi" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/104/logos/ebbd8a08-e215-4824-a5cd-d0fcd28aa3c5.png" group-title="Dash",Waves - Chill Electronic & Lofi
+#EXTINF:-1 radio="true" tvg-id="Overdrive - Mixes  Remixes  Bootlegs  & Mashups" tvg-name="Overdrive - Mixes  Remixes  Bootlegs  & Mashups" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/180/logos/8ae49444-f5b2-49a9-8fce-07d985d61fe3.png" group-title="LITT Live",Overdrive - Mixes  Remixes  Bootlegs  & Mashups
+https://das-sa39.cdnstream1.com/5586_128
+#EXTINF:-1 radio="true" tvg-id="Waves - Chill Electronic & Lofi" tvg-name="Waves - Chill Electronic & Lofi" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/104/logos/ebbd8a08-e215-4824-a5cd-d0fcd28aa3c5.png" group-title="LITT Live",Waves - Chill Electronic & Lofi
 https://ice55.securenetsystems.net/DASH55
-#EXTINF:-1 radio="true" tvg-id="Ratpack - Sinatra & Friends" tvg-name="Ratpack - Sinatra & Friends" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="Dash",Ratpack - Sinatra & Friends
+#EXTINF:-1 radio="true" tvg-id="Ratpack - Sinatra & Friends" tvg-name="Ratpack - Sinatra & Friends" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="LITT Live",Ratpack - Sinatra & Friends
 https://ice55.securenetsystems.net/DASH5
-#EXTINF:-1 radio="true" tvg-id="Dash R&B X" tvg-name="Dash R&B X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/50/logos/80156832-ba8b-4c3a-9e24-c5590be67b37.png" group-title="Dash",Dash R&B X
-https://ice55.securenetsystems.net/DASH47
-#EXTINF:-1 radio="true" tvg-id="Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop" tvg-name="Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/107/logos/590aec9f-6927-4ad8-8125-96353e4c3ca9.png" group-title="Dash",Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop
-https://ice55.securenetsystems.net/DASH57
-#EXTINF:-1 radio="true" tvg-id="Cool - Classic Jazz" tvg-name="Cool - Classic Jazz" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="Dash",Cool - Classic Jazz
+#EXTINF:-1 radio="true" tvg-id="R&B X" tvg-name="R&B X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/50/logos/fdae048d-d92c-40b9-935a-20e232a14bb4.png" group-title="LITT Live",R&B X
+https://das-sa39.cdnstream1.com/5589_128
+#EXTINF:-1 radio="true" tvg-id="Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop" tvg-name="Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/107/logos/590aec9f-6927-4ad8-8125-96353e4c3ca9.png" group-title="LITT Live",Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop
+https://ice65.securenetsystems.net/DASH57
+#EXTINF:-1 radio="true" tvg-id="Cool - Classic Jazz" tvg-name="Cool - Classic Jazz" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="LITT Live",Cool - Classic Jazz
 https://ice55.securenetsystems.net/DASH6
-#EXTINF:-1 radio="true" tvg-id="Concerto - Classical" tvg-name="Concerto - Classical" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Concerto.png" group-title="Dash",Concerto - Classical
+#EXTINF:-1 radio="true" tvg-id="Concerto - Classical" tvg-name="Concerto - Classical" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Concerto.png" group-title="LITT Live",Concerto - Classical
 https://ice55.securenetsystems.net/DASH33
-#EXTINF:-1 radio="true" tvg-id="Smooth Jazz Hits" tvg-name="Smooth Jazz Hits" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/229/logos/ec3bfac0-18e4-488b-b2f5-42451fb589e6.png" group-title="Dash",Smooth Jazz Hits
-https://ice55.securenetsystems.net/DASH44
-#EXTINF:-1 radio="true" tvg-id="Myndstream - Meditation Music for Personal Well-being" tvg-name="Myndstream - Meditation Music for Personal Well-being" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/98/logos/ce0c10bc-47ab-403e-8d71-9dbca9f10c21.png" group-title="Dash",Myndstream - Meditation Music for Personal Well-being
-https://ice55.securenetsystems.net/DASH93
-#EXTINF:-1 radio="true" tvg-id="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-name="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/5a781df1-227e-452a-8576-0530244dee94.png" group-title="Dash",Dash Lofi - Chill & Instrumental Hip-Hop Beats
-https://ice55.securenetsystems.net/DASH60
+#EXTINF:-1 radio="true" tvg-id="Smooth Jazz Hits" tvg-name="Smooth Jazz Hits" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/229/logos/ec3bfac0-18e4-488b-b2f5-42451fb589e6.png" group-title="LITT Live",Smooth Jazz Hits
+https://das-sa39.cdnstream1.com/5594_128
+#EXTINF:-1 radio="true" tvg-id="Lofi - Chill & Instrumental Jazz Beats" tvg-name="Lofi - Chill & Instrumental Jazz Beats" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/e909d25d-188c-4226-8362-3b7821e9f707.png" group-title="LITT Live",Lofi - Chill & Instrumental Jazz Beats
+https://das-sa39.cdnstream1.com/5582_128
 #EXTINF:-1 radio="true" tvg-id="RadioSpinner - Deep House" tvg-name="RadioSpinner - Deep House" tvg-logo="https://radiospinner.com/images/stations/deephouse-logo.jpg" group-title="RadioSpinner",RadioSpinner - Deep House
 https://live.radiospinner.com/deep-house-96
 #EXTINF:-1 radio="true" tvg-id="RadioSpinner - Tech House" tvg-name="RadioSpinner - Tech House" tvg-logo="https://radiospinner.com/images/stations/5fc7b2e14fcdb.jpg" group-title="RadioSpinner",RadioSpinner - Tech House
