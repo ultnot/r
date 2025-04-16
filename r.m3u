@@ -23,7 +23,7 @@ https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o
 http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
 #EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio - Daybreak Sessions" tvg-name="Tomorrowland - One World Radio - Daybreak Sessions" tvg-logo="https://cdn-profiles.tunein.com/s308839/images/logog.png" group-title="Main",Tomorrowland - One World Radio - Daybreak Sessions
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAKAAC.aac
-#EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio - Anthems" tvg-name="Tomorrowland - One World Radio - Anthems" tvg-logo="https://cdn-profiles.tunein.com/s309698/images/logog.png" group-title="Radio",Tomorrowland - One World Radio - Anthems
+#EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio - Anthems" tvg-name="Tomorrowland - One World Radio - Anthems" tvg-logo="https://cdn-profiles.tunein.com/s309698/images/logog.png" group-title="Main",Tomorrowland - One World Radio - Anthems
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DABAAC.aac
 #EXTINF:-1 radio="true" tvg-id="Defected Radio" tvg-name="Defected Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Defected_Logo.jpg/1200px-Defected_Logo.jpg" group-title="Main",Defected Radio
 https://solid41.streamupsolutions.com//proxy//tbkhkrlu//stream
@@ -35,20 +35,18 @@ https://streamssl2.chilltrax.com/index.html
 https://streams.radio.co/se1a320b47/listen
 #EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - House" tvg-name="Cafe del Mar Radio - House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - House
 https://s4.radio.co/seeae9c220/listen
-#EXTINF:-1 radio="true" tvg-id="BOX Radio - Lofi Radio" tvg-name="BOX Radio - Lofi Radio" tvg-logo="https://boxradio.net/wp-content/uploads/brizy/imgs/boxlofi-1-555x555x0x0x555x555x1665697255.jpg" group-title="Main",BOX Radio - Lofi Radio
+#EXTINF:-1 radio="true" tvg-id="BOX Radio - Lofi Radio" tvg-name="BOX Radio - Lofi Radio" tvg-logo="https://assets.radioapi.me/radios/01J65EZCTC4KAVKFBTKXH8ZRNK.jpg" group-title="Main",BOX Radio - Lofi Radio
 https://play.streamafrica.net/lofiradio
 #EXTINF:-1 radio="true" tvg-id="House FM" tvg-name="House FM" tvg-logo="https://play-lh.googleusercontent.com/b3VlVcpTRFf6btlaHDf36OcrLXL5jvipSrnaPn0bA_bR1AbQzklAh0-P6Y8wV3UJsuo" group-title="Main",House FM
-https://streamer.radio.co/s0de514535/listen
+https://uksoutha.streaming.broadcast.radio/housefm
 #EXTINF:-1 radio="true" tvg-id="Worldwide FM" tvg-name="Worldwide FM" tvg-logo="https://play-lh.googleusercontent.com/LIUxQwBItsQtqV-ZdJ8u8gmf92spev3Q7NJ0qW754Z2gH5ySzJVl-QyIUDiEF85SdA" group-title="Main",Worldwide FM
 https://worldwidefm.out.airtime.pro/worldwidefm_b
 #EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1
-https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
 #EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Dance" tvg-name="BBC Radio 1 Dance" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_dance/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1 Dance
-https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
-#EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Relax" tvg-name="BBC Radio 1 Relax" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_relax/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1 Relax
-https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.norewind.m3u8
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one_dance.m3u8
 #EXTINF:-1 radio="true" tvg-id="BBC Radio 1Xtra" tvg-name="BBC Radio 1Xtra" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_1xtra/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1Xtra
-https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml//bbc_1xtra-audio%3d96000.norewind.m3u8
 #EXTINF:-1 radio="true" tvg-id="Capital UK" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logog.jpg" group-title="Global Radio",Capital UK
 https://media-sov.musicradio.com/CapitalUK
 #EXTINF:-1 radio="true" tvg-id="Capital XTRA" tvg-name="Capital XTRA" tvg-logo="https://cdn-profiles.tunein.com/s220688/images/logog.jpg" group-title="Global Radio",Capital XTRA
@@ -81,11 +79,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac
 #EXTINF:-1 radio="true" tvg-id="SLAM! Housuh in de Pauzuh" tvg-name="SLAM! Housuh in de Pauzuh" tvg-logo="https://cdn-profiles.tunein.com/s308578/images/logog.jpg" group-title="SLAM!",SLAM! Housuh in de Pauzuh
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="KISS" tvg-name="KISS" tvg-logo="https://cdn-profiles.tunein.com/s260864/images/logog.png" group-title="KISS Network",KISS
+#EXTINF:-1 radio="true" tvg-id="KISS" tvg-name="KISS" tvg-logo="https://cdn-profiles.tunein.com/s6004/images/logog.jpg" group-title="KISS Network",KISS
 https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
 #EXTINF:-1 radio="true" tvg-id="KISSTORY" tvg-name="KISSTORY" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logog.jpg" group-title="KISS Network",KISSTORY
 https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
-#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS FRESH" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logog.jpg" group-title="KISS Network",KISS FRESH
+#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS XTRA" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logog.jpg" group-title="KISS Network",KISS XTRA
 https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.aac
 #EXTINF:-1 radio="true" tvg-id="KISS DANCE" tvg-name="KISS DANCE" tvg-logo="https://cdn-profiles.tunein.com/s321341/images/logog.jpg" group-title="KISS Network",KISS DANCE
 https://edge-bauerall-01-gos2.sharp-stream.com/webcast6high.aac
