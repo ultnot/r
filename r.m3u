@@ -13,8 +13,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFMAAC.aac
 https://stream.revma.ihrhls.com/zc1481
 #EXTINF:-1 radio="true" tvg-id="103.5 KTU" tvg-name="103.5 KTU" tvg-logo="https://i.iheart.com/v3/re/assets/images/1473.png" group-title="Main",103.5 KTU
 https://stream.revma.ihrhls.com/zc1473
+#EXTINF:-1 radio="true" tvg-id="94.7 The Block" tvg-name="94.7 The Block" tvg-logo="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/logos/WXBKFM.jpg" group-title="Main",94.7 The Block
+https://prod-3-80-202-25.amperwave.net/audacy-wxbkfmaac-hlsc.m3u8
 #EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="Main",Mega 97.9 - WSKQ-FM
-https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
+https://liveaudio.lamusica.com/NY_WSKQ_icy
 #EXTINF:-1 radio="true" tvg-id="La X96.3 FM" tvg-name="La X96.3 FM" tvg-logo="https://i.iheart.com/v3/re/new_assets/5df006f201f78836ac596cd2" group-title="Main",La X96.3 FM
 http://tu.streamguys1.com/wxnyfm/playlist.m3u8?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart
 #EXTINF:-1 radio="true" tvg-id="Z105.7" tvg-name="Z105.7" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6596f8863480a363d29fa525" group-title="Main",Z105.7
