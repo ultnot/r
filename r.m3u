@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://latinurbano.com/logo.jpg" group-title="Main",Latinurbano Radio
-http://radio.latinurbano.com/radio
+http://radio.latinurbano.com/stream
 #EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://djpflow.com/logo.jpg" group-title="Main",DJ Pflow Radio
 http://radio.djpflow.com/radio
 #EXTINF:-1 radio="true" tvg-id="DJ Lobo Radio" tvg-name="DJ Lobo Radio" tvg-logo="https://play-lh.googleusercontent.com/3AxKX45PBolzw0KawIb5WpZrP5f5TcFYOx6uzBPLq6DQYKm9lNGpZ0iCLpgKN6OR5nGB" group-title="Main",DJ Lobo Radio
